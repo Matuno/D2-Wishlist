@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T19:06:35.868023+00:00",
+  "generatedAt": "2026-06-29T19:19:22.435499+00:00",
   "outputDirectory": "dist",
   "files": [
     {
@@ -8,7 +8,7 @@
       "bmc": 0,
       "fileName": "AegisWishlist_MRS_PPC0_BMC0.txt",
       "localPath": "dist/AegisWishlist_MRS_PPC0_BMC0.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRS_PPC0_BMC0.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRS_PPC0_BMC0.txt"
     },
     {
       "minimumRank": "S",
@@ -16,7 +16,7 @@
       "bmc": 1,
       "fileName": "AegisWishlist_MRS_PPC0_BMC1.txt",
       "localPath": "dist/AegisWishlist_MRS_PPC0_BMC1.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRS_PPC0_BMC1.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRS_PPC0_BMC1.txt"
     },
     {
       "minimumRank": "S",
@@ -24,7 +24,7 @@
       "bmc": 2,
       "fileName": "AegisWishlist_MRS_PPC0_BMC2.txt",
       "localPath": "dist/AegisWishlist_MRS_PPC0_BMC2.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRS_PPC0_BMC2.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRS_PPC0_BMC2.txt"
     },
     {
       "minimumRank": "S",
@@ -32,7 +32,7 @@
       "bmc": 0,
       "fileName": "AegisWishlist_MRS_PPC1_BMC0.txt",
       "localPath": "dist/AegisWishlist_MRS_PPC1_BMC0.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRS_PPC1_BMC0.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRS_PPC1_BMC0.txt"
     },
     {
       "minimumRank": "S",
@@ -40,7 +40,7 @@
       "bmc": 1,
       "fileName": "AegisWishlist_MRS_PPC1_BMC1.txt",
       "localPath": "dist/AegisWishlist_MRS_PPC1_BMC1.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRS_PPC1_BMC1.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRS_PPC1_BMC1.txt"
     },
     {
       "minimumRank": "S",
@@ -48,7 +48,7 @@
       "bmc": 2,
       "fileName": "AegisWishlist_MRS_PPC1_BMC2.txt",
       "localPath": "dist/AegisWishlist_MRS_PPC1_BMC2.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRS_PPC1_BMC2.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRS_PPC1_BMC2.txt"
     },
     {
       "minimumRank": "S",
@@ -56,7 +56,7 @@
       "bmc": 0,
       "fileName": "AegisWishlist_MRS_PPC2_BMC0.txt",
       "localPath": "dist/AegisWishlist_MRS_PPC2_BMC0.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRS_PPC2_BMC0.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRS_PPC2_BMC0.txt"
     },
     {
       "minimumRank": "S",
@@ -64,7 +64,7 @@
       "bmc": 1,
       "fileName": "AegisWishlist_MRS_PPC2_BMC1.txt",
       "localPath": "dist/AegisWishlist_MRS_PPC2_BMC1.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRS_PPC2_BMC1.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRS_PPC2_BMC1.txt"
     },
     {
       "minimumRank": "S",
@@ -72,7 +72,7 @@
       "bmc": 2,
       "fileName": "AegisWishlist_MRS_PPC2_BMC2.txt",
       "localPath": "dist/AegisWishlist_MRS_PPC2_BMC2.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRS_PPC2_BMC2.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRS_PPC2_BMC2.txt"
     },
     {
       "minimumRank": "S",
@@ -80,7 +80,7 @@
       "bmc": 0,
       "fileName": "AegisWishlist_MRS_PPC3_BMC0.txt",
       "localPath": "dist/AegisWishlist_MRS_PPC3_BMC0.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRS_PPC3_BMC0.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRS_PPC3_BMC0.txt"
     },
     {
       "minimumRank": "S",
@@ -88,7 +88,7 @@
       "bmc": 1,
       "fileName": "AegisWishlist_MRS_PPC3_BMC1.txt",
       "localPath": "dist/AegisWishlist_MRS_PPC3_BMC1.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRS_PPC3_BMC1.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRS_PPC3_BMC1.txt"
     },
     {
       "minimumRank": "S",
@@ -96,7 +96,7 @@
       "bmc": 2,
       "fileName": "AegisWishlist_MRS_PPC3_BMC2.txt",
       "localPath": "dist/AegisWishlist_MRS_PPC3_BMC2.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRS_PPC3_BMC2.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRS_PPC3_BMC2.txt"
     },
     {
       "minimumRank": "A",
@@ -104,7 +104,7 @@
       "bmc": 0,
       "fileName": "AegisWishlist_MRA_PPC0_BMC0.txt",
       "localPath": "dist/AegisWishlist_MRA_PPC0_BMC0.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRA_PPC0_BMC0.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRA_PPC0_BMC0.txt"
     },
     {
       "minimumRank": "A",
@@ -112,7 +112,7 @@
       "bmc": 1,
       "fileName": "AegisWishlist_MRA_PPC0_BMC1.txt",
       "localPath": "dist/AegisWishlist_MRA_PPC0_BMC1.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRA_PPC0_BMC1.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRA_PPC0_BMC1.txt"
     },
     {
       "minimumRank": "A",
@@ -120,7 +120,7 @@
       "bmc": 2,
       "fileName": "AegisWishlist_MRA_PPC0_BMC2.txt",
       "localPath": "dist/AegisWishlist_MRA_PPC0_BMC2.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRA_PPC0_BMC2.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRA_PPC0_BMC2.txt"
     },
     {
       "minimumRank": "A",
@@ -128,7 +128,7 @@
       "bmc": 0,
       "fileName": "AegisWishlist_MRA_PPC1_BMC0.txt",
       "localPath": "dist/AegisWishlist_MRA_PPC1_BMC0.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRA_PPC1_BMC0.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRA_PPC1_BMC0.txt"
     },
     {
       "minimumRank": "A",
@@ -136,7 +136,7 @@
       "bmc": 1,
       "fileName": "AegisWishlist_MRA_PPC1_BMC1.txt",
       "localPath": "dist/AegisWishlist_MRA_PPC1_BMC1.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRA_PPC1_BMC1.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRA_PPC1_BMC1.txt"
     },
     {
       "minimumRank": "A",
@@ -144,7 +144,7 @@
       "bmc": 2,
       "fileName": "AegisWishlist_MRA_PPC1_BMC2.txt",
       "localPath": "dist/AegisWishlist_MRA_PPC1_BMC2.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRA_PPC1_BMC2.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRA_PPC1_BMC2.txt"
     },
     {
       "minimumRank": "A",
@@ -152,7 +152,7 @@
       "bmc": 0,
       "fileName": "AegisWishlist_MRA_PPC2_BMC0.txt",
       "localPath": "dist/AegisWishlist_MRA_PPC2_BMC0.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRA_PPC2_BMC0.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRA_PPC2_BMC0.txt"
     },
     {
       "minimumRank": "A",
@@ -160,7 +160,7 @@
       "bmc": 1,
       "fileName": "AegisWishlist_MRA_PPC2_BMC1.txt",
       "localPath": "dist/AegisWishlist_MRA_PPC2_BMC1.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRA_PPC2_BMC1.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRA_PPC2_BMC1.txt"
     },
     {
       "minimumRank": "A",
@@ -168,7 +168,7 @@
       "bmc": 2,
       "fileName": "AegisWishlist_MRA_PPC2_BMC2.txt",
       "localPath": "dist/AegisWishlist_MRA_PPC2_BMC2.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRA_PPC2_BMC2.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRA_PPC2_BMC2.txt"
     },
     {
       "minimumRank": "A",
@@ -176,7 +176,7 @@
       "bmc": 0,
       "fileName": "AegisWishlist_MRA_PPC3_BMC0.txt",
       "localPath": "dist/AegisWishlist_MRA_PPC3_BMC0.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRA_PPC3_BMC0.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRA_PPC3_BMC0.txt"
     },
     {
       "minimumRank": "A",
@@ -184,7 +184,7 @@
       "bmc": 1,
       "fileName": "AegisWishlist_MRA_PPC3_BMC1.txt",
       "localPath": "dist/AegisWishlist_MRA_PPC3_BMC1.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRA_PPC3_BMC1.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRA_PPC3_BMC1.txt"
     },
     {
       "minimumRank": "A",
@@ -192,7 +192,7 @@
       "bmc": 2,
       "fileName": "AegisWishlist_MRA_PPC3_BMC2.txt",
       "localPath": "dist/AegisWishlist_MRA_PPC3_BMC2.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRA_PPC3_BMC2.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRA_PPC3_BMC2.txt"
     },
     {
       "minimumRank": "B",
@@ -200,7 +200,7 @@
       "bmc": 0,
       "fileName": "AegisWishlist_MRB_PPC0_BMC0.txt",
       "localPath": "dist/AegisWishlist_MRB_PPC0_BMC0.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRB_PPC0_BMC0.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRB_PPC0_BMC0.txt"
     },
     {
       "minimumRank": "B",
@@ -208,7 +208,7 @@
       "bmc": 1,
       "fileName": "AegisWishlist_MRB_PPC0_BMC1.txt",
       "localPath": "dist/AegisWishlist_MRB_PPC0_BMC1.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRB_PPC0_BMC1.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRB_PPC0_BMC1.txt"
     },
     {
       "minimumRank": "B",
@@ -216,7 +216,7 @@
       "bmc": 2,
       "fileName": "AegisWishlist_MRB_PPC0_BMC2.txt",
       "localPath": "dist/AegisWishlist_MRB_PPC0_BMC2.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRB_PPC0_BMC2.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRB_PPC0_BMC2.txt"
     },
     {
       "minimumRank": "B",
@@ -224,7 +224,7 @@
       "bmc": 0,
       "fileName": "AegisWishlist_MRB_PPC1_BMC0.txt",
       "localPath": "dist/AegisWishlist_MRB_PPC1_BMC0.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRB_PPC1_BMC0.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRB_PPC1_BMC0.txt"
     },
     {
       "minimumRank": "B",
@@ -232,7 +232,7 @@
       "bmc": 1,
       "fileName": "AegisWishlist_MRB_PPC1_BMC1.txt",
       "localPath": "dist/AegisWishlist_MRB_PPC1_BMC1.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRB_PPC1_BMC1.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRB_PPC1_BMC1.txt"
     },
     {
       "minimumRank": "B",
@@ -240,7 +240,7 @@
       "bmc": 2,
       "fileName": "AegisWishlist_MRB_PPC1_BMC2.txt",
       "localPath": "dist/AegisWishlist_MRB_PPC1_BMC2.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRB_PPC1_BMC2.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRB_PPC1_BMC2.txt"
     },
     {
       "minimumRank": "B",
@@ -248,7 +248,7 @@
       "bmc": 0,
       "fileName": "AegisWishlist_MRB_PPC2_BMC0.txt",
       "localPath": "dist/AegisWishlist_MRB_PPC2_BMC0.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRB_PPC2_BMC0.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRB_PPC2_BMC0.txt"
     },
     {
       "minimumRank": "B",
@@ -256,7 +256,7 @@
       "bmc": 1,
       "fileName": "AegisWishlist_MRB_PPC2_BMC1.txt",
       "localPath": "dist/AegisWishlist_MRB_PPC2_BMC1.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRB_PPC2_BMC1.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRB_PPC2_BMC1.txt"
     },
     {
       "minimumRank": "B",
@@ -264,7 +264,7 @@
       "bmc": 2,
       "fileName": "AegisWishlist_MRB_PPC2_BMC2.txt",
       "localPath": "dist/AegisWishlist_MRB_PPC2_BMC2.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRB_PPC2_BMC2.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRB_PPC2_BMC2.txt"
     },
     {
       "minimumRank": "B",
@@ -272,7 +272,7 @@
       "bmc": 0,
       "fileName": "AegisWishlist_MRB_PPC3_BMC0.txt",
       "localPath": "dist/AegisWishlist_MRB_PPC3_BMC0.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRB_PPC3_BMC0.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRB_PPC3_BMC0.txt"
     },
     {
       "minimumRank": "B",
@@ -280,7 +280,7 @@
       "bmc": 1,
       "fileName": "AegisWishlist_MRB_PPC3_BMC1.txt",
       "localPath": "dist/AegisWishlist_MRB_PPC3_BMC1.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRB_PPC3_BMC1.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRB_PPC3_BMC1.txt"
     },
     {
       "minimumRank": "B",
@@ -288,7 +288,7 @@
       "bmc": 2,
       "fileName": "AegisWishlist_MRB_PPC3_BMC2.txt",
       "localPath": "dist/AegisWishlist_MRB_PPC3_BMC2.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRB_PPC3_BMC2.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRB_PPC3_BMC2.txt"
     },
     {
       "minimumRank": "C",
@@ -296,7 +296,7 @@
       "bmc": 0,
       "fileName": "AegisWishlist_MRC_PPC0_BMC0.txt",
       "localPath": "dist/AegisWishlist_MRC_PPC0_BMC0.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRC_PPC0_BMC0.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRC_PPC0_BMC0.txt"
     },
     {
       "minimumRank": "C",
@@ -304,7 +304,7 @@
       "bmc": 1,
       "fileName": "AegisWishlist_MRC_PPC0_BMC1.txt",
       "localPath": "dist/AegisWishlist_MRC_PPC0_BMC1.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRC_PPC0_BMC1.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRC_PPC0_BMC1.txt"
     },
     {
       "minimumRank": "C",
@@ -312,7 +312,7 @@
       "bmc": 2,
       "fileName": "AegisWishlist_MRC_PPC0_BMC2.txt",
       "localPath": "dist/AegisWishlist_MRC_PPC0_BMC2.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRC_PPC0_BMC2.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRC_PPC0_BMC2.txt"
     },
     {
       "minimumRank": "C",
@@ -320,7 +320,7 @@
       "bmc": 0,
       "fileName": "AegisWishlist_MRC_PPC1_BMC0.txt",
       "localPath": "dist/AegisWishlist_MRC_PPC1_BMC0.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRC_PPC1_BMC0.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRC_PPC1_BMC0.txt"
     },
     {
       "minimumRank": "C",
@@ -328,7 +328,7 @@
       "bmc": 1,
       "fileName": "AegisWishlist_MRC_PPC1_BMC1.txt",
       "localPath": "dist/AegisWishlist_MRC_PPC1_BMC1.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRC_PPC1_BMC1.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRC_PPC1_BMC1.txt"
     },
     {
       "minimumRank": "C",
@@ -336,7 +336,7 @@
       "bmc": 2,
       "fileName": "AegisWishlist_MRC_PPC1_BMC2.txt",
       "localPath": "dist/AegisWishlist_MRC_PPC1_BMC2.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRC_PPC1_BMC2.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRC_PPC1_BMC2.txt"
     },
     {
       "minimumRank": "C",
@@ -344,7 +344,7 @@
       "bmc": 0,
       "fileName": "AegisWishlist_MRC_PPC2_BMC0.txt",
       "localPath": "dist/AegisWishlist_MRC_PPC2_BMC0.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRC_PPC2_BMC0.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRC_PPC2_BMC0.txt"
     },
     {
       "minimumRank": "C",
@@ -352,7 +352,7 @@
       "bmc": 1,
       "fileName": "AegisWishlist_MRC_PPC2_BMC1.txt",
       "localPath": "dist/AegisWishlist_MRC_PPC2_BMC1.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRC_PPC2_BMC1.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRC_PPC2_BMC1.txt"
     },
     {
       "minimumRank": "C",
@@ -360,7 +360,7 @@
       "bmc": 2,
       "fileName": "AegisWishlist_MRC_PPC2_BMC2.txt",
       "localPath": "dist/AegisWishlist_MRC_PPC2_BMC2.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRC_PPC2_BMC2.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRC_PPC2_BMC2.txt"
     },
     {
       "minimumRank": "C",
@@ -368,7 +368,7 @@
       "bmc": 0,
       "fileName": "AegisWishlist_MRC_PPC3_BMC0.txt",
       "localPath": "dist/AegisWishlist_MRC_PPC3_BMC0.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRC_PPC3_BMC0.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRC_PPC3_BMC0.txt"
     },
     {
       "minimumRank": "C",
@@ -376,7 +376,7 @@
       "bmc": 1,
       "fileName": "AegisWishlist_MRC_PPC3_BMC1.txt",
       "localPath": "dist/AegisWishlist_MRC_PPC3_BMC1.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRC_PPC3_BMC1.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRC_PPC3_BMC1.txt"
     },
     {
       "minimumRank": "C",
@@ -384,7 +384,7 @@
       "bmc": 2,
       "fileName": "AegisWishlist_MRC_PPC3_BMC2.txt",
       "localPath": "dist/AegisWishlist_MRC_PPC3_BMC2.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRC_PPC3_BMC2.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRC_PPC3_BMC2.txt"
     },
     {
       "minimumRank": "D",
@@ -392,7 +392,7 @@
       "bmc": 0,
       "fileName": "AegisWishlist_MRD_PPC0_BMC0.txt",
       "localPath": "dist/AegisWishlist_MRD_PPC0_BMC0.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRD_PPC0_BMC0.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRD_PPC0_BMC0.txt"
     },
     {
       "minimumRank": "D",
@@ -400,7 +400,7 @@
       "bmc": 1,
       "fileName": "AegisWishlist_MRD_PPC0_BMC1.txt",
       "localPath": "dist/AegisWishlist_MRD_PPC0_BMC1.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRD_PPC0_BMC1.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRD_PPC0_BMC1.txt"
     },
     {
       "minimumRank": "D",
@@ -408,7 +408,7 @@
       "bmc": 2,
       "fileName": "AegisWishlist_MRD_PPC0_BMC2.txt",
       "localPath": "dist/AegisWishlist_MRD_PPC0_BMC2.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRD_PPC0_BMC2.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRD_PPC0_BMC2.txt"
     },
     {
       "minimumRank": "D",
@@ -416,7 +416,7 @@
       "bmc": 0,
       "fileName": "AegisWishlist_MRD_PPC1_BMC0.txt",
       "localPath": "dist/AegisWishlist_MRD_PPC1_BMC0.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRD_PPC1_BMC0.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRD_PPC1_BMC0.txt"
     },
     {
       "minimumRank": "D",
@@ -424,7 +424,7 @@
       "bmc": 1,
       "fileName": "AegisWishlist_MRD_PPC1_BMC1.txt",
       "localPath": "dist/AegisWishlist_MRD_PPC1_BMC1.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRD_PPC1_BMC1.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRD_PPC1_BMC1.txt"
     },
     {
       "minimumRank": "D",
@@ -432,7 +432,7 @@
       "bmc": 2,
       "fileName": "AegisWishlist_MRD_PPC1_BMC2.txt",
       "localPath": "dist/AegisWishlist_MRD_PPC1_BMC2.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRD_PPC1_BMC2.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRD_PPC1_BMC2.txt"
     },
     {
       "minimumRank": "D",
@@ -440,7 +440,7 @@
       "bmc": 0,
       "fileName": "AegisWishlist_MRD_PPC2_BMC0.txt",
       "localPath": "dist/AegisWishlist_MRD_PPC2_BMC0.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRD_PPC2_BMC0.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRD_PPC2_BMC0.txt"
     },
     {
       "minimumRank": "D",
@@ -448,7 +448,7 @@
       "bmc": 1,
       "fileName": "AegisWishlist_MRD_PPC2_BMC1.txt",
       "localPath": "dist/AegisWishlist_MRD_PPC2_BMC1.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRD_PPC2_BMC1.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRD_PPC2_BMC1.txt"
     },
     {
       "minimumRank": "D",
@@ -456,7 +456,7 @@
       "bmc": 2,
       "fileName": "AegisWishlist_MRD_PPC2_BMC2.txt",
       "localPath": "dist/AegisWishlist_MRD_PPC2_BMC2.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRD_PPC2_BMC2.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRD_PPC2_BMC2.txt"
     },
     {
       "minimumRank": "D",
@@ -464,7 +464,7 @@
       "bmc": 0,
       "fileName": "AegisWishlist_MRD_PPC3_BMC0.txt",
       "localPath": "dist/AegisWishlist_MRD_PPC3_BMC0.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRD_PPC3_BMC0.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRD_PPC3_BMC0.txt"
     },
     {
       "minimumRank": "D",
@@ -472,7 +472,7 @@
       "bmc": 1,
       "fileName": "AegisWishlist_MRD_PPC3_BMC1.txt",
       "localPath": "dist/AegisWishlist_MRD_PPC3_BMC1.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRD_PPC3_BMC1.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRD_PPC3_BMC1.txt"
     },
     {
       "minimumRank": "D",
@@ -480,7 +480,7 @@
       "bmc": 2,
       "fileName": "AegisWishlist_MRD_PPC3_BMC2.txt",
       "localPath": "dist/AegisWishlist_MRD_PPC3_BMC2.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRD_PPC3_BMC2.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRD_PPC3_BMC2.txt"
     },
     {
       "minimumRank": "E",
@@ -488,7 +488,7 @@
       "bmc": 0,
       "fileName": "AegisWishlist_MRE_PPC0_BMC0.txt",
       "localPath": "dist/AegisWishlist_MRE_PPC0_BMC0.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRE_PPC0_BMC0.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRE_PPC0_BMC0.txt"
     },
     {
       "minimumRank": "E",
@@ -496,7 +496,7 @@
       "bmc": 1,
       "fileName": "AegisWishlist_MRE_PPC0_BMC1.txt",
       "localPath": "dist/AegisWishlist_MRE_PPC0_BMC1.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRE_PPC0_BMC1.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRE_PPC0_BMC1.txt"
     },
     {
       "minimumRank": "E",
@@ -504,7 +504,7 @@
       "bmc": 2,
       "fileName": "AegisWishlist_MRE_PPC0_BMC2.txt",
       "localPath": "dist/AegisWishlist_MRE_PPC0_BMC2.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRE_PPC0_BMC2.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRE_PPC0_BMC2.txt"
     },
     {
       "minimumRank": "E",
@@ -512,7 +512,7 @@
       "bmc": 0,
       "fileName": "AegisWishlist_MRE_PPC1_BMC0.txt",
       "localPath": "dist/AegisWishlist_MRE_PPC1_BMC0.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRE_PPC1_BMC0.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRE_PPC1_BMC0.txt"
     },
     {
       "minimumRank": "E",
@@ -520,7 +520,7 @@
       "bmc": 1,
       "fileName": "AegisWishlist_MRE_PPC1_BMC1.txt",
       "localPath": "dist/AegisWishlist_MRE_PPC1_BMC1.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRE_PPC1_BMC1.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRE_PPC1_BMC1.txt"
     },
     {
       "minimumRank": "E",
@@ -528,7 +528,7 @@
       "bmc": 2,
       "fileName": "AegisWishlist_MRE_PPC1_BMC2.txt",
       "localPath": "dist/AegisWishlist_MRE_PPC1_BMC2.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRE_PPC1_BMC2.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRE_PPC1_BMC2.txt"
     },
     {
       "minimumRank": "E",
@@ -536,7 +536,7 @@
       "bmc": 0,
       "fileName": "AegisWishlist_MRE_PPC2_BMC0.txt",
       "localPath": "dist/AegisWishlist_MRE_PPC2_BMC0.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRE_PPC2_BMC0.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRE_PPC2_BMC0.txt"
     },
     {
       "minimumRank": "E",
@@ -544,7 +544,7 @@
       "bmc": 1,
       "fileName": "AegisWishlist_MRE_PPC2_BMC1.txt",
       "localPath": "dist/AegisWishlist_MRE_PPC2_BMC1.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRE_PPC2_BMC1.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRE_PPC2_BMC1.txt"
     },
     {
       "minimumRank": "E",
@@ -552,7 +552,7 @@
       "bmc": 2,
       "fileName": "AegisWishlist_MRE_PPC2_BMC2.txt",
       "localPath": "dist/AegisWishlist_MRE_PPC2_BMC2.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRE_PPC2_BMC2.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRE_PPC2_BMC2.txt"
     },
     {
       "minimumRank": "E",
@@ -560,7 +560,7 @@
       "bmc": 0,
       "fileName": "AegisWishlist_MRE_PPC3_BMC0.txt",
       "localPath": "dist/AegisWishlist_MRE_PPC3_BMC0.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRE_PPC3_BMC0.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRE_PPC3_BMC0.txt"
     },
     {
       "minimumRank": "E",
@@ -568,7 +568,7 @@
       "bmc": 1,
       "fileName": "AegisWishlist_MRE_PPC3_BMC1.txt",
       "localPath": "dist/AegisWishlist_MRE_PPC3_BMC1.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRE_PPC3_BMC1.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRE_PPC3_BMC1.txt"
     },
     {
       "minimumRank": "E",
@@ -576,7 +576,7 @@
       "bmc": 2,
       "fileName": "AegisWishlist_MRE_PPC3_BMC2.txt",
       "localPath": "dist/AegisWishlist_MRE_PPC3_BMC2.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRE_PPC3_BMC2.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRE_PPC3_BMC2.txt"
     },
     {
       "minimumRank": "F",
@@ -584,7 +584,7 @@
       "bmc": 0,
       "fileName": "AegisWishlist_MRF_PPC0_BMC0.txt",
       "localPath": "dist/AegisWishlist_MRF_PPC0_BMC0.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRF_PPC0_BMC0.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRF_PPC0_BMC0.txt"
     },
     {
       "minimumRank": "F",
@@ -592,7 +592,7 @@
       "bmc": 1,
       "fileName": "AegisWishlist_MRF_PPC0_BMC1.txt",
       "localPath": "dist/AegisWishlist_MRF_PPC0_BMC1.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRF_PPC0_BMC1.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRF_PPC0_BMC1.txt"
     },
     {
       "minimumRank": "F",
@@ -600,7 +600,7 @@
       "bmc": 2,
       "fileName": "AegisWishlist_MRF_PPC0_BMC2.txt",
       "localPath": "dist/AegisWishlist_MRF_PPC0_BMC2.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRF_PPC0_BMC2.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRF_PPC0_BMC2.txt"
     },
     {
       "minimumRank": "F",
@@ -608,7 +608,7 @@
       "bmc": 0,
       "fileName": "AegisWishlist_MRF_PPC1_BMC0.txt",
       "localPath": "dist/AegisWishlist_MRF_PPC1_BMC0.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRF_PPC1_BMC0.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRF_PPC1_BMC0.txt"
     },
     {
       "minimumRank": "F",
@@ -616,7 +616,7 @@
       "bmc": 1,
       "fileName": "AegisWishlist_MRF_PPC1_BMC1.txt",
       "localPath": "dist/AegisWishlist_MRF_PPC1_BMC1.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRF_PPC1_BMC1.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRF_PPC1_BMC1.txt"
     },
     {
       "minimumRank": "F",
@@ -624,7 +624,7 @@
       "bmc": 2,
       "fileName": "AegisWishlist_MRF_PPC1_BMC2.txt",
       "localPath": "dist/AegisWishlist_MRF_PPC1_BMC2.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRF_PPC1_BMC2.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRF_PPC1_BMC2.txt"
     },
     {
       "minimumRank": "F",
@@ -632,7 +632,7 @@
       "bmc": 0,
       "fileName": "AegisWishlist_MRF_PPC2_BMC0.txt",
       "localPath": "dist/AegisWishlist_MRF_PPC2_BMC0.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRF_PPC2_BMC0.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRF_PPC2_BMC0.txt"
     },
     {
       "minimumRank": "F",
@@ -640,7 +640,7 @@
       "bmc": 1,
       "fileName": "AegisWishlist_MRF_PPC2_BMC1.txt",
       "localPath": "dist/AegisWishlist_MRF_PPC2_BMC1.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRF_PPC2_BMC1.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRF_PPC2_BMC1.txt"
     },
     {
       "minimumRank": "F",
@@ -648,7 +648,7 @@
       "bmc": 2,
       "fileName": "AegisWishlist_MRF_PPC2_BMC2.txt",
       "localPath": "dist/AegisWishlist_MRF_PPC2_BMC2.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRF_PPC2_BMC2.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRF_PPC2_BMC2.txt"
     },
     {
       "minimumRank": "F",
@@ -656,7 +656,7 @@
       "bmc": 0,
       "fileName": "AegisWishlist_MRF_PPC3_BMC0.txt",
       "localPath": "dist/AegisWishlist_MRF_PPC3_BMC0.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRF_PPC3_BMC0.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRF_PPC3_BMC0.txt"
     },
     {
       "minimumRank": "F",
@@ -664,7 +664,7 @@
       "bmc": 1,
       "fileName": "AegisWishlist_MRF_PPC3_BMC1.txt",
       "localPath": "dist/AegisWishlist_MRF_PPC3_BMC1.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRF_PPC3_BMC1.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRF_PPC3_BMC1.txt"
     },
     {
       "minimumRank": "F",
@@ -672,7 +672,7 @@
       "bmc": 2,
       "fileName": "AegisWishlist_MRF_PPC3_BMC2.txt",
       "localPath": "dist/AegisWishlist_MRF_PPC3_BMC2.txt",
-      "rawUrl": "https://raw.githubusercontent.com/<user>/<repo>/main/dist/AegisWishlist_MRF_PPC3_BMC2.txt"
+      "rawUrl": "https://raw.githubusercontent.com/Matuno/D2-Wishlist/main/dist/AegisWishlist_MRF_PPC3_BMC2.txt"
     }
   ],
   "metadata": {
