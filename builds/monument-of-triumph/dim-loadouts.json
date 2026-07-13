@@ -1,0 +1,1074 @@
+{
+  "generatedAt": "2026-07-13T23:35:11.113330+00:00",
+  "seasonNumber": 29,
+  "links": [
+    {
+      "path": "hunter/arc.md",
+      "name": "Hunter Arc - Shinobu Arcworks",
+      "publicDimUrl": null,
+      "longUrl": "https://app.destinyitemmanager.com/loadouts?loadout=%7B%22id%22%3A%22monument-hunter-arc%22%2C%22name%22%3A%22Hunter%20Arc%20-%20Shinobu%20Arcworks%22%2C%22notes%22%3A%22Generated%20from%20builds%2Fmonument-of-triumph%2Fhunter%2Farc.md.%20Review%20owned%20armor%20rolls%2C%20stat%20tiers%2C%20and%20weapon%20copies%20in%20DIM.%20Relic%3A%20Tablet%20of%20Ruin%3B%20perks%3A%20Flashover%2C%20Horde%20Shuttle%2C%20Unraveling%20Orbs%2C%20Photonic%20Flare%2C%20Dielectric%2C%20Defibrillating%20Blast%2C%20To%20Shreds.%22%2C%22classType%22%3A1%2C%22equipped%22%3A%5B%7B%22hash%22%3A2328211300%2C%22socketOverrides%22%3A%7B%222%22%3A3769507632%2C%220%22%3A426473317%2C%223%22%3A2716335210%2C%224%22%3A146194908%2C%225%22%3A4194622039%2C%226%22%3A4194622037%2C%227%22%3A1727069366%2C%228%22%3A1727069364%2C%229%22%3A1727069363%2C%2210%22%3A1727069361%2C%2211%22%3A3277705906%7D%7D%2C%7B%22hash%22%3A1611241895%7D%5D%2C%22unequipped%22%3A%5B%7B%22hash%22%3A1435808083%7D%2C%7B%22hash%22%3A3325463374%7D%2C%7B%22hash%22%3A954563454%7D%5D%2C%22parameters%22%3A%7B%22exoticArmorHash%22%3A1611241895%2C%22artifactUnlocks%22%3A%7B%22seasonNumber%22%3A29%2C%22unlockedItemHashes%22%3A%5B2596646298%2C2596646301%2C3585856464%2C3585856465%2C3585856470%2C1319563986%2C1319563985%5D%7D%7D%7D",
+      "unresolved": [],
+      "loadout": {
+        "id": "monument-hunter-arc",
+        "name": "Hunter Arc - Shinobu Arcworks",
+        "notes": "Generated from builds/monument-of-triumph/hunter/arc.md. Review owned armor rolls, stat tiers, and weapon copies in DIM. Relic: Tablet of Ruin; perks: Flashover, Horde Shuttle, Unraveling Orbs, Photonic Flare, Dielectric, Defibrillating Blast, To Shreds.",
+        "classType": 1,
+        "equipped": [
+          {
+            "hash": 2328211300,
+            "socketOverrides": {
+              "2": 3769507632,
+              "0": 426473317,
+              "3": 2716335210,
+              "4": 146194908,
+              "5": 4194622039,
+              "6": 4194622037,
+              "7": 1727069366,
+              "8": 1727069364,
+              "9": 1727069363,
+              "10": 1727069361,
+              "11": 3277705906
+            }
+          },
+          {
+            "hash": 1611241895
+          }
+        ],
+        "unequipped": [
+          {
+            "hash": 1435808083
+          },
+          {
+            "hash": 3325463374
+          },
+          {
+            "hash": 954563454
+          }
+        ],
+        "parameters": {
+          "exoticArmorHash": 1611241895,
+          "artifactUnlocks": {
+            "seasonNumber": 29,
+            "unlockedItemHashes": [
+              2596646298,
+              2596646301,
+              3585856464,
+              3585856465,
+              3585856470,
+              1319563986,
+              1319563985
+            ]
+          }
+        }
+      }
+    },
+    {
+      "path": "hunter/prismatic.md",
+      "name": "Hunter Prismatic - Cyrtarachne GM Champion",
+      "publicDimUrl": "https://dim.gg/d2dwroy/Prismatic",
+      "longUrl": "https://app.destinyitemmanager.com/loadouts?loadout=%7B%22id%22%3A%22monument-hunter-prismatic%22%2C%22name%22%3A%22Hunter%20Prismatic%20-%20Cyrtarachne%20GM%20Champion%22%2C%22notes%22%3A%22Generated%20from%20builds%2Fmonument-of-triumph%2Fhunter%2Fprismatic.md.%20Review%20owned%20armor%20rolls%2C%20stat%20tiers%2C%20and%20weapon%20copies%20in%20DIM.%20Relic%3A%20Tablet%20of%20Ruin%3B%20perks%3A%20Flashover%2C%20Horde%20Shuttle%2C%20Unraveling%20Orbs%2C%20Photonic%20Flare%2C%20Dielectric%2C%20Defibrillating%20Blast%2C%20To%20Shreds.%22%2C%22classType%22%3A1%2C%22equipped%22%3A%5B%7B%22hash%22%3A4282591831%2C%22socketOverrides%22%3A%7B%222%22%3A2370269391%2C%220%22%3A2711519343%2C%223%22%3A2657901002%2C%224%22%3A4051767608%2C%227%22%3A2835214903%2C%228%22%3A2835214897%2C%229%22%3A124726505%2C%2210%22%3A2626922125%2C%2211%22%3A124726501%2C%2212%22%3A124726499%2C%2213%22%3A2626922120%2C%2214%22%3A2626922121%7D%7D%2C%7B%22hash%22%3A2809120022%7D%5D%2C%22unequipped%22%3A%5B%5D%2C%22parameters%22%3A%7B%22exoticArmorHash%22%3A2809120022%2C%22artifactUnlocks%22%3A%7B%22seasonNumber%22%3A29%2C%22unlockedItemHashes%22%3A%5B2596646298%2C2596646301%2C3585856464%2C3585856465%2C3585856470%2C1319563986%2C1319563985%5D%7D%7D%7D",
+      "unresolved": [],
+      "loadout": {
+        "id": "monument-hunter-prismatic",
+        "name": "Hunter Prismatic - Cyrtarachne GM Champion",
+        "notes": "Generated from builds/monument-of-triumph/hunter/prismatic.md. Review owned armor rolls, stat tiers, and weapon copies in DIM. Relic: Tablet of Ruin; perks: Flashover, Horde Shuttle, Unraveling Orbs, Photonic Flare, Dielectric, Defibrillating Blast, To Shreds.",
+        "classType": 1,
+        "equipped": [
+          {
+            "hash": 4282591831,
+            "socketOverrides": {
+              "2": 2370269391,
+              "0": 2711519343,
+              "3": 2657901002,
+              "4": 4051767608,
+              "7": 2835214903,
+              "8": 2835214897,
+              "9": 124726505,
+              "10": 2626922125,
+              "11": 124726501,
+              "12": 124726499,
+              "13": 2626922120,
+              "14": 2626922121
+            }
+          },
+          {
+            "hash": 2809120022
+          }
+        ],
+        "unequipped": [],
+        "parameters": {
+          "exoticArmorHash": 2809120022,
+          "artifactUnlocks": {
+            "seasonNumber": 29,
+            "unlockedItemHashes": [
+              2596646298,
+              2596646301,
+              3585856464,
+              3585856465,
+              3585856470,
+              1319563986,
+              1319563985
+            ]
+          }
+        }
+      }
+    },
+    {
+      "path": "hunter/solar.md",
+      "name": "Hunter Solar - Infinite Crackshot",
+      "publicDimUrl": null,
+      "longUrl": "https://app.destinyitemmanager.com/loadouts?loadout=%7B%22id%22%3A%22monument-hunter-solar%22%2C%22name%22%3A%22Hunter%20Solar%20-%20Infinite%20Crackshot%22%2C%22notes%22%3A%22Generated%20from%20builds%2Fmonument-of-triumph%2Fhunter%2Fsolar.md.%20Review%20owned%20armor%20rolls%2C%20stat%20tiers%2C%20and%20weapon%20copies%20in%20DIM.%20Relic%3A%20Queensfoil%20Censer%3B%20perks%3A%20Fever%20and%20Chill%2C%20Kindling%20Trigger%2C%20Pillar%20of%20Ice%2C%20Creeping%20Chill%2C%20Perpetual%20Destruction%2C%20Anti-Champion%20Nosecone%2C%20Hail%20The%20Storm.%22%2C%22classType%22%3A1%2C%22equipped%22%3A%5B%7B%22hash%22%3A2240888816%2C%22socketOverrides%22%3A%7B%222%22%3A375052471%2C%220%22%3A3636300852%2C%223%22%3A4016776972%2C%224%22%3A1841016428%2C%225%22%3A3066103997%2C%226%22%3A3066103999%2C%227%22%3A362132293%2C%228%22%3A362132294%2C%229%22%3A1051276349%2C%2210%22%3A362132288%2C%2211%22%3A362132300%7D%7D%2C%7B%22hash%22%3A1793346751%7D%5D%2C%22unequipped%22%3A%5B%7B%22hash%22%3A4289226715%7D%2C%7B%22hash%22%3A2907129557%7D%2C%7B%22hash%22%3A4255268456%7D%2C%7B%22hash%22%3A17096506%7D%2C%7B%22hash%22%3A2905188646%7D%5D%2C%22parameters%22%3A%7B%22exoticArmorHash%22%3A1793346751%2C%22artifactUnlocks%22%3A%7B%22seasonNumber%22%3A29%2C%22unlockedItemHashes%22%3A%5B3153265450%2C2317325398%2C51032916%2C3116632769%2C3585856467%2C51032914%2C1328115227%5D%7D%7D%7D",
+      "unresolved": [],
+      "loadout": {
+        "id": "monument-hunter-solar",
+        "name": "Hunter Solar - Infinite Crackshot",
+        "notes": "Generated from builds/monument-of-triumph/hunter/solar.md. Review owned armor rolls, stat tiers, and weapon copies in DIM. Relic: Queensfoil Censer; perks: Fever and Chill, Kindling Trigger, Pillar of Ice, Creeping Chill, Perpetual Destruction, Anti-Champion Nosecone, Hail The Storm.",
+        "classType": 1,
+        "equipped": [
+          {
+            "hash": 2240888816,
+            "socketOverrides": {
+              "2": 375052471,
+              "0": 3636300852,
+              "3": 4016776972,
+              "4": 1841016428,
+              "5": 3066103997,
+              "6": 3066103999,
+              "7": 362132293,
+              "8": 362132294,
+              "9": 1051276349,
+              "10": 362132288,
+              "11": 362132300
+            }
+          },
+          {
+            "hash": 1793346751
+          }
+        ],
+        "unequipped": [
+          {
+            "hash": 4289226715
+          },
+          {
+            "hash": 2907129557
+          },
+          {
+            "hash": 4255268456
+          },
+          {
+            "hash": 17096506
+          },
+          {
+            "hash": 2905188646
+          }
+        ],
+        "parameters": {
+          "exoticArmorHash": 1793346751,
+          "artifactUnlocks": {
+            "seasonNumber": 29,
+            "unlockedItemHashes": [
+              3153265450,
+              2317325398,
+              51032916,
+              3116632769,
+              3585856467,
+              51032914,
+              1328115227
+            ]
+          }
+        }
+      }
+    },
+    {
+      "path": "hunter/stasis.md",
+      "name": "Hunter Stasis - Mask of Fealty Shatter",
+      "publicDimUrl": null,
+      "longUrl": "https://app.destinyitemmanager.com/loadouts?loadout=%7B%22id%22%3A%22monument-hunter-stasis%22%2C%22name%22%3A%22Hunter%20Stasis%20-%20Mask%20of%20Fealty%20Shatter%22%2C%22notes%22%3A%22Generated%20from%20builds%2Fmonument-of-triumph%2Fhunter%2Fstasis.md.%20Review%20owned%20armor%20rolls%2C%20stat%20tiers%2C%20and%20weapon%20copies%20in%20DIM.%20Relic%3A%20Queensfoil%20Censer%3B%20perks%3A%20Fever%20and%20Chill%2C%20Kindling%20Trigger%2C%20Pillar%20of%20Ice%2C%20Creeping%20Chill%2C%20Perpetual%20Destruction%2C%20Anti-Champion%20Nosecone%2C%20Hail%20The%20Storm.%22%2C%22classType%22%3A1%2C%22equipped%22%3A%5B%7B%22hash%22%3A873720784%2C%22socketOverrides%22%3A%7B%222%22%3A2625980631%2C%220%22%3A3933525367%2C%223%22%3A1341767667%2C%224%22%3A1399218%2C%225%22%3A1920417385%2C%226%22%3A2934767476%2C%227%22%3A3469412971%2C%228%22%3A3469412975%2C%229%22%3A2483898430%2C%2210%22%3A2483898429%7D%7D%2C%7B%22hash%22%3A2915174768%7D%5D%2C%22unequipped%22%3A%5B%7B%22hash%22%3A1111334348%7D%2C%7B%22hash%22%3A370712896%7D%2C%7B%22hash%22%3A3886719505%7D%5D%2C%22parameters%22%3A%7B%22exoticArmorHash%22%3A2915174768%2C%22artifactUnlocks%22%3A%7B%22seasonNumber%22%3A29%2C%22unlockedItemHashes%22%3A%5B3153265450%2C2317325398%2C51032916%2C3116632769%2C3585856467%2C51032914%2C1328115227%5D%7D%7D%7D",
+      "unresolved": [],
+      "loadout": {
+        "id": "monument-hunter-stasis",
+        "name": "Hunter Stasis - Mask of Fealty Shatter",
+        "notes": "Generated from builds/monument-of-triumph/hunter/stasis.md. Review owned armor rolls, stat tiers, and weapon copies in DIM. Relic: Queensfoil Censer; perks: Fever and Chill, Kindling Trigger, Pillar of Ice, Creeping Chill, Perpetual Destruction, Anti-Champion Nosecone, Hail The Storm.",
+        "classType": 1,
+        "equipped": [
+          {
+            "hash": 873720784,
+            "socketOverrides": {
+              "2": 2625980631,
+              "0": 3933525367,
+              "3": 1341767667,
+              "4": 1399218,
+              "5": 1920417385,
+              "6": 2934767476,
+              "7": 3469412971,
+              "8": 3469412975,
+              "9": 2483898430,
+              "10": 2483898429
+            }
+          },
+          {
+            "hash": 2915174768
+          }
+        ],
+        "unequipped": [
+          {
+            "hash": 1111334348
+          },
+          {
+            "hash": 370712896
+          },
+          {
+            "hash": 3886719505
+          }
+        ],
+        "parameters": {
+          "exoticArmorHash": 2915174768,
+          "artifactUnlocks": {
+            "seasonNumber": 29,
+            "unlockedItemHashes": [
+              3153265450,
+              2317325398,
+              51032916,
+              3116632769,
+              3585856467,
+              51032914,
+              1328115227
+            ]
+          }
+        }
+      }
+    },
+    {
+      "path": "hunter/strand.md",
+      "name": "Hunter Strand - Moirai Beyblades",
+      "publicDimUrl": "https://dim.gg/x4p3baa/Strand-+-Arc",
+      "longUrl": "https://app.destinyitemmanager.com/loadouts?loadout=%7B%22id%22%3A%22monument-hunter-strand%22%2C%22name%22%3A%22Hunter%20Strand%20-%20Moirai%20Beyblades%22%2C%22notes%22%3A%22Generated%20from%20builds%2Fmonument-of-triumph%2Fhunter%2Fstrand.md.%20Review%20owned%20armor%20rolls%2C%20stat%20tiers%2C%20and%20weapon%20copies%20in%20DIM.%20Relic%3A%20Implement%20of%20Curiosity%3B%20perks%3A%20Horde%20Shuttle%2C%20Refresh%20Threads%2C%20Threaded%20Blast%2C%20Elemental%20Daze%2C%20Energy%20Acceleration%2C%20Elemental%20Overdrive%2C%20Tangled%20Web.%22%2C%22classType%22%3A1%2C%22equipped%22%3A%5B%7B%22hash%22%3A3785442599%2C%22socketOverrides%22%3A%7B%222%22%3A2463983862%2C%220%22%3A1282157890%2C%223%22%3A1680616210%2C%224%22%3A2470512752%2C%225%22%3A4249729124%2C%226%22%3A4249729127%2C%227%22%3A3192552691%2C%228%22%3A4208512222%2C%229%22%3A4208512218%2C%2210%22%3A3192552690%7D%7D%2C%7B%22hash%22%3A2647299044%7D%5D%2C%22unequipped%22%3A%5B%7B%22hash%22%3A1441805468%7D%5D%2C%22parameters%22%3A%7B%22exoticArmorHash%22%3A2647299044%2C%22artifactUnlocks%22%3A%7B%22seasonNumber%22%3A29%2C%22unlockedItemHashes%22%3A%5B2596646301%2C3153265454%2C3459646243%2C3459646241%2C3459646245%2C2659604390%2C2659604385%5D%7D%7D%7D",
+      "unresolved": [],
+      "loadout": {
+        "id": "monument-hunter-strand",
+        "name": "Hunter Strand - Moirai Beyblades",
+        "notes": "Generated from builds/monument-of-triumph/hunter/strand.md. Review owned armor rolls, stat tiers, and weapon copies in DIM. Relic: Implement of Curiosity; perks: Horde Shuttle, Refresh Threads, Threaded Blast, Elemental Daze, Energy Acceleration, Elemental Overdrive, Tangled Web.",
+        "classType": 1,
+        "equipped": [
+          {
+            "hash": 3785442599,
+            "socketOverrides": {
+              "2": 2463983862,
+              "0": 1282157890,
+              "3": 1680616210,
+              "4": 2470512752,
+              "5": 4249729124,
+              "6": 4249729127,
+              "7": 3192552691,
+              "8": 4208512222,
+              "9": 4208512218,
+              "10": 3192552690
+            }
+          },
+          {
+            "hash": 2647299044
+          }
+        ],
+        "unequipped": [
+          {
+            "hash": 1441805468
+          }
+        ],
+        "parameters": {
+          "exoticArmorHash": 2647299044,
+          "artifactUnlocks": {
+            "seasonNumber": 29,
+            "unlockedItemHashes": [
+              2596646301,
+              3153265454,
+              3459646243,
+              3459646241,
+              3459646245,
+              2659604390,
+              2659604385
+            ]
+          }
+        }
+      }
+    },
+    {
+      "path": "hunter/void.md",
+      "name": "Hunter Void - Gyrfalcon Phantom",
+      "publicDimUrl": "https://dim.gg/ilfadba/Void",
+      "longUrl": "https://app.destinyitemmanager.com/loadouts?loadout=%7B%22id%22%3A%22monument-hunter-void%22%2C%22name%22%3A%22Hunter%20Void%20-%20Gyrfalcon%20Phantom%22%2C%22notes%22%3A%22Generated%20from%20builds%2Fmonument-of-triumph%2Fhunter%2Fvoid.md.%20Review%20owned%20armor%20rolls%2C%20stat%20tiers%2C%20and%20weapon%20copies%20in%20DIM.%20Relic%3A%20Tablet%20of%20Ruin%3B%20perks%3A%20Flashover%2C%20Horde%20Shuttle%2C%20Unraveling%20Orbs%2C%20Photonic%20Flare%2C%20Dielectric%2C%20Defibrillating%20Blast%2C%20To%20Shreds.%22%2C%22classType%22%3A1%2C%22equipped%22%3A%5B%7B%22hash%22%3A2453351420%2C%22socketOverrides%22%3A%7B%222%22%3A2722573683%2C%220%22%3A2816982784%2C%223%22%3A1139822081%2C%224%22%3A1016030582%2C%225%22%3A187655374%2C%226%22%3A187655373%2C%227%22%3A2661180603%2C%228%22%3A2272984671%2C%229%22%3A2272984668%2C%2210%22%3A2661180602%2C%2211%22%3A2661180601%7D%7D%2C%7B%22hash%22%3A2447096246%7D%5D%2C%22unequipped%22%3A%5B%7B%22hash%22%3A3628991658%7D%2C%7B%22hash%22%3A253843484%7D%5D%2C%22parameters%22%3A%7B%22exoticArmorHash%22%3A2447096246%2C%22artifactUnlocks%22%3A%7B%22seasonNumber%22%3A29%2C%22unlockedItemHashes%22%3A%5B2596646298%2C2596646301%2C3585856464%2C3585856465%2C3585856470%2C1319563986%2C1319563985%5D%7D%7D%7D",
+      "unresolved": [],
+      "loadout": {
+        "id": "monument-hunter-void",
+        "name": "Hunter Void - Gyrfalcon Phantom",
+        "notes": "Generated from builds/monument-of-triumph/hunter/void.md. Review owned armor rolls, stat tiers, and weapon copies in DIM. Relic: Tablet of Ruin; perks: Flashover, Horde Shuttle, Unraveling Orbs, Photonic Flare, Dielectric, Defibrillating Blast, To Shreds.",
+        "classType": 1,
+        "equipped": [
+          {
+            "hash": 2453351420,
+            "socketOverrides": {
+              "2": 2722573683,
+              "0": 2816982784,
+              "3": 1139822081,
+              "4": 1016030582,
+              "5": 187655374,
+              "6": 187655373,
+              "7": 2661180603,
+              "8": 2272984671,
+              "9": 2272984668,
+              "10": 2661180602,
+              "11": 2661180601
+            }
+          },
+          {
+            "hash": 2447096246
+          }
+        ],
+        "unequipped": [
+          {
+            "hash": 3628991658
+          },
+          {
+            "hash": 253843484
+          }
+        ],
+        "parameters": {
+          "exoticArmorHash": 2447096246,
+          "artifactUnlocks": {
+            "seasonNumber": 29,
+            "unlockedItemHashes": [
+              2596646298,
+              2596646301,
+              3585856464,
+              3585856465,
+              3585856470,
+              1319563986,
+              1319563985
+            ]
+          }
+        }
+      }
+    },
+    {
+      "path": "titan/arc.md",
+      "name": "Titan Arc - Cuirass Thundercrash",
+      "publicDimUrl": null,
+      "longUrl": "https://app.destinyitemmanager.com/loadouts?loadout=%7B%22id%22%3A%22monument-titan-arc%22%2C%22name%22%3A%22Titan%20Arc%20-%20Cuirass%20Thundercrash%22%2C%22notes%22%3A%22Generated%20from%20builds%2Fmonument-of-triumph%2Ftitan%2Farc.md.%20Review%20owned%20armor%20rolls%2C%20stat%20tiers%2C%20and%20weapon%20copies%20in%20DIM.%20Relic%3A%20Tablet%20of%20Ruin%3B%20perks%3A%20Flashover%2C%20Horde%20Shuttle%2C%20Unraveling%20Orbs%2C%20Photonic%20Flare%2C%20Dielectric%2C%20Defibrillating%20Blast%2C%20To%20Shreds.%22%2C%22classType%22%3A0%2C%22equipped%22%3A%5B%7B%22hash%22%3A2932390016%2C%22socketOverrides%22%3A%7B%222%22%3A119041298%2C%220%22%3A489583097%2C%223%22%3A2708585279%2C%224%22%3A1713935764%2C%225%22%3A1656549672%2C%226%22%3A1656549675%2C%227%22%3A1727069362%2C%228%22%3A1727069367%2C%229%22%3A1727069363%2C%2210%22%3A1727069361%7D%7D%2C%7B%22hash%22%3A4057875770%7D%5D%2C%22unequipped%22%3A%5B%7B%22hash%22%3A2376481550%7D%2C%7B%22hash%22%3A1912669214%7D%2C%7B%22hash%22%3A374573733%7D%5D%2C%22parameters%22%3A%7B%22exoticArmorHash%22%3A4057875770%2C%22artifactUnlocks%22%3A%7B%22seasonNumber%22%3A29%2C%22unlockedItemHashes%22%3A%5B2596646298%2C2596646301%2C3585856464%2C3585856465%2C3585856470%2C1319563986%2C1319563985%5D%7D%7D%7D",
+      "unresolved": [],
+      "loadout": {
+        "id": "monument-titan-arc",
+        "name": "Titan Arc - Cuirass Thundercrash",
+        "notes": "Generated from builds/monument-of-triumph/titan/arc.md. Review owned armor rolls, stat tiers, and weapon copies in DIM. Relic: Tablet of Ruin; perks: Flashover, Horde Shuttle, Unraveling Orbs, Photonic Flare, Dielectric, Defibrillating Blast, To Shreds.",
+        "classType": 0,
+        "equipped": [
+          {
+            "hash": 2932390016,
+            "socketOverrides": {
+              "2": 119041298,
+              "0": 489583097,
+              "3": 2708585279,
+              "4": 1713935764,
+              "5": 1656549672,
+              "6": 1656549675,
+              "7": 1727069362,
+              "8": 1727069367,
+              "9": 1727069363,
+              "10": 1727069361
+            }
+          },
+          {
+            "hash": 4057875770
+          }
+        ],
+        "unequipped": [
+          {
+            "hash": 2376481550
+          },
+          {
+            "hash": 1912669214
+          },
+          {
+            "hash": 374573733
+          }
+        ],
+        "parameters": {
+          "exoticArmorHash": 4057875770,
+          "artifactUnlocks": {
+            "seasonNumber": 29,
+            "unlockedItemHashes": [
+              2596646298,
+              2596646301,
+              3585856464,
+              3585856465,
+              3585856470,
+              1319563986,
+              1319563985
+            ]
+          }
+        }
+      }
+    },
+    {
+      "path": "titan/prismatic.md",
+      "name": "Titan Prismatic - Stoicism Consecration",
+      "publicDimUrl": null,
+      "longUrl": "https://app.destinyitemmanager.com/loadouts?loadout=%7B%22id%22%3A%22monument-titan-prismatic%22%2C%22name%22%3A%22Titan%20Prismatic%20-%20Stoicism%20Consecration%22%2C%22notes%22%3A%22Generated%20from%20builds%2Fmonument-of-triumph%2Ftitan%2Fprismatic.md.%20Review%20owned%20armor%20rolls%2C%20stat%20tiers%2C%20and%20weapon%20copies%20in%20DIM.%20Relic%3A%20Encrypted%20Data%20Disk%3B%20perks%3A%20Kinetic%20Synthesis%2C%20Press%20The%20Advantage%2C%20Singularity%20Blade%2C%20Precision%20Equity%2C%20Dielectric%2C%20Armorsmith%2C%20Power%20from%20Pain.%22%2C%22classType%22%3A0%2C%22equipped%22%3A%5B%7B%22hash%22%3A1616346845%2C%22socketOverrides%22%3A%7B%222%22%3A2529942644%2C%220%22%3A2868073563%2C%223%22%3A1980796564%2C%224%22%3A934199459%2C%227%22%3A1262901520%2C%228%22%3A1262901523%2C%229%22%3A2626922114%2C%2210%22%3A124726498%2C%2211%22%3A124726499%2C%2212%22%3A2626922120%2C%2213%22%3A2626922126%7D%7D%2C%7B%22hash%22%3A266021826%7D%5D%2C%22unequipped%22%3A%5B%7B%22hash%22%3A4129629253%7D%2C%7B%22hash%22%3A3049715579%7D%2C%7B%22hash%22%3A3413860062%7D%5D%2C%22parameters%22%3A%7B%22exoticArmorHash%22%3A266021826%2C%22artifactUnlocks%22%3A%7B%22seasonNumber%22%3A29%2C%22unlockedItemHashes%22%3A%5B3834273540%2C3834273543%2C2903198434%2C2903198432%2C3585856470%2C2903198437%2C4037132133%5D%7D%7D%7D",
+      "unresolved": [],
+      "loadout": {
+        "id": "monument-titan-prismatic",
+        "name": "Titan Prismatic - Stoicism Consecration",
+        "notes": "Generated from builds/monument-of-triumph/titan/prismatic.md. Review owned armor rolls, stat tiers, and weapon copies in DIM. Relic: Encrypted Data Disk; perks: Kinetic Synthesis, Press The Advantage, Singularity Blade, Precision Equity, Dielectric, Armorsmith, Power from Pain.",
+        "classType": 0,
+        "equipped": [
+          {
+            "hash": 1616346845,
+            "socketOverrides": {
+              "2": 2529942644,
+              "0": 2868073563,
+              "3": 1980796564,
+              "4": 934199459,
+              "7": 1262901520,
+              "8": 1262901523,
+              "9": 2626922114,
+              "10": 124726498,
+              "11": 124726499,
+              "12": 2626922120,
+              "13": 2626922126
+            }
+          },
+          {
+            "hash": 266021826
+          }
+        ],
+        "unequipped": [
+          {
+            "hash": 4129629253
+          },
+          {
+            "hash": 3049715579
+          },
+          {
+            "hash": 3413860062
+          }
+        ],
+        "parameters": {
+          "exoticArmorHash": 266021826,
+          "artifactUnlocks": {
+            "seasonNumber": 29,
+            "unlockedItemHashes": [
+              3834273540,
+              3834273543,
+              2903198434,
+              2903198432,
+              3585856470,
+              2903198437,
+              4037132133
+            ]
+          }
+        }
+      }
+    },
+    {
+      "path": "titan/solar.md",
+      "name": "Titan Solar - Wormgod Sunbreaker",
+      "publicDimUrl": null,
+      "longUrl": "https://app.destinyitemmanager.com/loadouts?loadout=%7B%22id%22%3A%22monument-titan-solar%22%2C%22name%22%3A%22Titan%20Solar%20-%20Wormgod%20Sunbreaker%22%2C%22notes%22%3A%22Generated%20from%20builds%2Fmonument-of-triumph%2Ftitan%2Fsolar.md.%20Review%20owned%20armor%20rolls%2C%20stat%20tiers%2C%20and%20weapon%20copies%20in%20DIM.%20Relic%3A%20Queensfoil%20Censer%3B%20perks%3A%20Fever%20and%20Chill%2C%20Kindling%20Trigger%2C%20Pillar%20of%20Ice%2C%20Creeping%20Chill%2C%20Perpetual%20Destruction%2C%20Anti-Champion%20Nosecone%2C%20Hail%20The%20Storm.%22%2C%22classType%22%3A0%2C%22equipped%22%3A%5B%7B%22hash%22%3A2550323932%2C%22socketOverrides%22%3A%7B%222%22%3A2747500761%2C%220%22%3A2495523341%2C%223%22%3A852252789%2C%224%22%3A1841016428%2C%225%22%3A2984351205%2C%226%22%3A2984351204%2C%227%22%3A362132288%2C%228%22%3A362132294%2C%229%22%3A1051276349%2C%2210%22%3A1051276351%7D%7D%2C%7B%22hash%22%3A1203306856%7D%5D%2C%22unequipped%22%3A%5B%7B%22hash%22%3A3049715579%7D%2C%7B%22hash%22%3A17096506%7D%2C%7B%22hash%22%3A2069224589%7D%5D%2C%22parameters%22%3A%7B%22exoticArmorHash%22%3A1203306856%2C%22artifactUnlocks%22%3A%7B%22seasonNumber%22%3A29%2C%22unlockedItemHashes%22%3A%5B3153265450%2C2317325398%2C51032916%2C3116632769%2C3585856467%2C51032914%2C1328115227%5D%7D%7D%7D",
+      "unresolved": [],
+      "loadout": {
+        "id": "monument-titan-solar",
+        "name": "Titan Solar - Wormgod Sunbreaker",
+        "notes": "Generated from builds/monument-of-triumph/titan/solar.md. Review owned armor rolls, stat tiers, and weapon copies in DIM. Relic: Queensfoil Censer; perks: Fever and Chill, Kindling Trigger, Pillar of Ice, Creeping Chill, Perpetual Destruction, Anti-Champion Nosecone, Hail The Storm.",
+        "classType": 0,
+        "equipped": [
+          {
+            "hash": 2550323932,
+            "socketOverrides": {
+              "2": 2747500761,
+              "0": 2495523341,
+              "3": 852252789,
+              "4": 1841016428,
+              "5": 2984351205,
+              "6": 2984351204,
+              "7": 362132288,
+              "8": 362132294,
+              "9": 1051276349,
+              "10": 1051276351
+            }
+          },
+          {
+            "hash": 1203306856
+          }
+        ],
+        "unequipped": [
+          {
+            "hash": 3049715579
+          },
+          {
+            "hash": 17096506
+          },
+          {
+            "hash": 2069224589
+          }
+        ],
+        "parameters": {
+          "exoticArmorHash": 1203306856,
+          "artifactUnlocks": {
+            "seasonNumber": 29,
+            "unlockedItemHashes": [
+              3153265450,
+              2317325398,
+              51032916,
+              3116632769,
+              3585856467,
+              51032914,
+              1328115227
+            ]
+          }
+        }
+      }
+    },
+    {
+      "path": "titan/stasis.md",
+      "name": "Titan Stasis - Stronghold Behemoth Guard",
+      "publicDimUrl": null,
+      "longUrl": "https://app.destinyitemmanager.com/loadouts?loadout=%7B%22id%22%3A%22monument-titan-stasis%22%2C%22name%22%3A%22Titan%20Stasis%20-%20Stronghold%20Behemoth%20Guard%22%2C%22notes%22%3A%22Generated%20from%20builds%2Fmonument-of-triumph%2Ftitan%2Fstasis.md.%20Review%20owned%20armor%20rolls%2C%20stat%20tiers%2C%20and%20weapon%20copies%20in%20DIM.%20Relic%3A%20Queensfoil%20Censer%3B%20perks%3A%20Fever%20and%20Chill%2C%20Kindling%20Trigger%2C%20Pillar%20of%20Ice%2C%20Creeping%20Chill%2C%20Perpetual%20Destruction%2C%20Anti-Champion%20Nosecone%2C%20Hail%20The%20Storm.%22%2C%22classType%22%3A0%2C%22equipped%22%3A%5B%7B%22hash%22%3A613647804%2C%22socketOverrides%22%3A%7B%222%22%3A2021620139%2C%220%22%3A3260056809%2C%223%22%3A2028772231%2C%224%22%3A1399218%2C%225%22%3A1563930741%2C%226%22%3A2031919264%2C%227%22%3A2483898429%2C%228%22%3A3469412971%2C%229%22%3A2483898428%2C%2210%22%3A2483898430%2C%2211%22%3A3469412975%7D%7D%2C%7B%22hash%22%3A512777670%7D%5D%2C%22unequipped%22%3A%5B%7B%22hash%22%3A3049715579%7D%2C%7B%22hash%22%3A1111334348%7D%2C%7B%22hash%22%3A940371471%7D%2C%7B%22hash%22%3A3659414143%7D%5D%2C%22parameters%22%3A%7B%22exoticArmorHash%22%3A512777670%2C%22artifactUnlocks%22%3A%7B%22seasonNumber%22%3A29%2C%22unlockedItemHashes%22%3A%5B3153265450%2C2317325398%2C51032916%2C3116632769%2C3585856467%2C51032914%2C1328115227%5D%7D%7D%7D",
+      "unresolved": [],
+      "loadout": {
+        "id": "monument-titan-stasis",
+        "name": "Titan Stasis - Stronghold Behemoth Guard",
+        "notes": "Generated from builds/monument-of-triumph/titan/stasis.md. Review owned armor rolls, stat tiers, and weapon copies in DIM. Relic: Queensfoil Censer; perks: Fever and Chill, Kindling Trigger, Pillar of Ice, Creeping Chill, Perpetual Destruction, Anti-Champion Nosecone, Hail The Storm.",
+        "classType": 0,
+        "equipped": [
+          {
+            "hash": 613647804,
+            "socketOverrides": {
+              "2": 2021620139,
+              "0": 3260056809,
+              "3": 2028772231,
+              "4": 1399218,
+              "5": 1563930741,
+              "6": 2031919264,
+              "7": 2483898429,
+              "8": 3469412971,
+              "9": 2483898428,
+              "10": 2483898430,
+              "11": 3469412975
+            }
+          },
+          {
+            "hash": 512777670
+          }
+        ],
+        "unequipped": [
+          {
+            "hash": 3049715579
+          },
+          {
+            "hash": 1111334348
+          },
+          {
+            "hash": 940371471
+          },
+          {
+            "hash": 3659414143
+          }
+        ],
+        "parameters": {
+          "exoticArmorHash": 512777670,
+          "artifactUnlocks": {
+            "seasonNumber": 29,
+            "unlockedItemHashes": [
+              3153265450,
+              2317325398,
+              51032916,
+              3116632769,
+              3585856467,
+              51032914,
+              1328115227
+            ]
+          }
+        }
+      }
+    },
+    {
+      "path": "titan/strand.md",
+      "name": "Titan Strand - Abeyant Banner Control",
+      "publicDimUrl": null,
+      "longUrl": "https://app.destinyitemmanager.com/loadouts?loadout=%7B%22id%22%3A%22monument-titan-strand%22%2C%22name%22%3A%22Titan%20Strand%20-%20Abeyant%20Banner%20Control%22%2C%22notes%22%3A%22Generated%20from%20builds%2Fmonument-of-triumph%2Ftitan%2Fstrand.md.%20Review%20owned%20armor%20rolls%2C%20stat%20tiers%2C%20and%20weapon%20copies%20in%20DIM.%20Relic%3A%20Implement%20of%20Curiosity%3B%20perks%3A%20Horde%20Shuttle%2C%20Refresh%20Threads%2C%20Threaded%20Blast%2C%20Elemental%20Daze%2C%20Energy%20Acceleration%2C%20Elemental%20Overdrive%2C%20Tangled%20Web.%22%2C%22classType%22%3A0%2C%22equipped%22%3A%5B%7B%22hash%22%3A242419885%2C%22socketOverrides%22%3A%7B%222%22%3A3574662354%2C%220%22%3A2087010644%2C%223%22%3A4094417246%2C%224%22%3A2809342386%2C%225%22%3A988980152%2C%226%22%3A988980154%2C%227%22%3A3192552691%2C%228%22%3A4208512222%2C%229%22%3A4208512218%2C%2210%22%3A3192552690%7D%7D%2C%7B%22hash%22%3A3849355625%7D%5D%2C%22unequipped%22%3A%5B%7B%22hash%22%3A1441805468%7D%2C%7B%22hash%22%3A1481594633%7D%5D%2C%22parameters%22%3A%7B%22exoticArmorHash%22%3A3849355625%2C%22artifactUnlocks%22%3A%7B%22seasonNumber%22%3A29%2C%22unlockedItemHashes%22%3A%5B2596646301%2C3153265454%2C3459646243%2C3459646241%2C3459646245%2C2659604390%2C2659604385%5D%7D%7D%7D",
+      "unresolved": [],
+      "loadout": {
+        "id": "monument-titan-strand",
+        "name": "Titan Strand - Abeyant Banner Control",
+        "notes": "Generated from builds/monument-of-triumph/titan/strand.md. Review owned armor rolls, stat tiers, and weapon copies in DIM. Relic: Implement of Curiosity; perks: Horde Shuttle, Refresh Threads, Threaded Blast, Elemental Daze, Energy Acceleration, Elemental Overdrive, Tangled Web.",
+        "classType": 0,
+        "equipped": [
+          {
+            "hash": 242419885,
+            "socketOverrides": {
+              "2": 3574662354,
+              "0": 2087010644,
+              "3": 4094417246,
+              "4": 2809342386,
+              "5": 988980152,
+              "6": 988980154,
+              "7": 3192552691,
+              "8": 4208512222,
+              "9": 4208512218,
+              "10": 3192552690
+            }
+          },
+          {
+            "hash": 3849355625
+          }
+        ],
+        "unequipped": [
+          {
+            "hash": 1441805468
+          },
+          {
+            "hash": 1481594633
+          }
+        ],
+        "parameters": {
+          "exoticArmorHash": 3849355625,
+          "artifactUnlocks": {
+            "seasonNumber": 29,
+            "unlockedItemHashes": [
+              2596646301,
+              3153265454,
+              3459646243,
+              3459646241,
+              3459646245,
+              2659604390,
+              2659604385
+            ]
+          }
+        }
+      }
+    },
+    {
+      "path": "titan/void.md",
+      "name": "Titan Void - No Backup Shotgun Void",
+      "publicDimUrl": "https://dim.gg/3amqc4y/Void",
+      "longUrl": "https://app.destinyitemmanager.com/loadouts?loadout=%7B%22id%22%3A%22monument-titan-void%22%2C%22name%22%3A%22Titan%20Void%20-%20No%20Backup%20Shotgun%20Void%22%2C%22notes%22%3A%22Generated%20from%20builds%2Fmonument-of-triumph%2Ftitan%2Fvoid.md.%20Review%20owned%20armor%20rolls%2C%20stat%20tiers%2C%20and%20weapon%20copies%20in%20DIM.%20Relic%3A%20Tablet%20of%20Ruin%3B%20perks%3A%20Flashover%2C%20Horde%20Shuttle%2C%20Unraveling%20Orbs%2C%20Photonic%20Flare%2C%20Dielectric%2C%20Defibrillating%20Blast%2C%20To%20Shreds.%22%2C%22classType%22%3A0%2C%22equipped%22%3A%5B%7B%22hash%22%3A2842471112%2C%22socketOverrides%22%3A%7B%222%22%3A4260353955%2C%220%22%3A2722641741%2C%223%22%3A4220332374%2C%224%22%3A1016030582%2C%225%22%3A1602994569%2C%226%22%3A1602994568%2C%227%22%3A2661180603%2C%228%22%3A2272984671%2C%229%22%3A2272984668%2C%2210%22%3A3854948621%7D%7D%2C%7B%22hash%22%3A730200061%7D%5D%2C%22unequipped%22%3A%5B%7B%22hash%22%3A3371017761%7D%2C%7B%22hash%22%3A3413860062%7D%5D%2C%22parameters%22%3A%7B%22exoticArmorHash%22%3A730200061%2C%22artifactUnlocks%22%3A%7B%22seasonNumber%22%3A29%2C%22unlockedItemHashes%22%3A%5B2596646298%2C2596646301%2C3585856464%2C3585856465%2C3585856470%2C1319563986%2C1319563985%5D%7D%7D%7D",
+      "unresolved": [],
+      "loadout": {
+        "id": "monument-titan-void",
+        "name": "Titan Void - No Backup Shotgun Void",
+        "notes": "Generated from builds/monument-of-triumph/titan/void.md. Review owned armor rolls, stat tiers, and weapon copies in DIM. Relic: Tablet of Ruin; perks: Flashover, Horde Shuttle, Unraveling Orbs, Photonic Flare, Dielectric, Defibrillating Blast, To Shreds.",
+        "classType": 0,
+        "equipped": [
+          {
+            "hash": 2842471112,
+            "socketOverrides": {
+              "2": 4260353955,
+              "0": 2722641741,
+              "3": 4220332374,
+              "4": 1016030582,
+              "5": 1602994569,
+              "6": 1602994568,
+              "7": 2661180603,
+              "8": 2272984671,
+              "9": 2272984668,
+              "10": 3854948621
+            }
+          },
+          {
+            "hash": 730200061
+          }
+        ],
+        "unequipped": [
+          {
+            "hash": 3371017761
+          },
+          {
+            "hash": 3413860062
+          }
+        ],
+        "parameters": {
+          "exoticArmorHash": 730200061,
+          "artifactUnlocks": {
+            "seasonNumber": 29,
+            "unlockedItemHashes": [
+              2596646298,
+              2596646301,
+              3585856464,
+              3585856465,
+              3585856470,
+              1319563986,
+              1319563985
+            ]
+          }
+        }
+      }
+    },
+    {
+      "path": "warlock/arc.md",
+      "name": "Warlock Arc - Geomag Ionic Sentry",
+      "publicDimUrl": null,
+      "longUrl": "https://app.destinyitemmanager.com/loadouts?loadout=%7B%22id%22%3A%22monument-warlock-arc%22%2C%22name%22%3A%22Warlock%20Arc%20-%20Geomag%20Ionic%20Sentry%22%2C%22notes%22%3A%22Generated%20from%20builds%2Fmonument-of-triumph%2Fwarlock%2Farc.md.%20Review%20owned%20armor%20rolls%2C%20stat%20tiers%2C%20and%20weapon%20copies%20in%20DIM.%20Relic%3A%20Tablet%20of%20Ruin%3B%20perks%3A%20Flashover%2C%20Horde%20Shuttle%2C%20Unraveling%20Orbs%2C%20Photonic%20Flare%2C%20Dielectric%2C%20Defibrillating%20Blast%2C%20To%20Shreds.%22%2C%22classType%22%3A2%2C%22equipped%22%3A%5B%7B%22hash%22%3A3168997075%2C%22socketOverrides%22%3A%7B%222%22%3A1081893461%2C%220%22%3A25156515%2C%223%22%3A1232050830%2C%224%22%3A2481624867%2C%225%22%3A1293395728%2C%226%22%3A1293395729%2C%227%22%3A1727069364%2C%228%22%3A1727069363%2C%229%22%3A1727069366%2C%2210%22%3A3277705906%7D%7D%2C%7B%22hash%22%3A3608857511%7D%5D%2C%22unequipped%22%3A%5B%7B%22hash%22%3A374573733%7D%2C%7B%22hash%22%3A2376481550%7D%2C%7B%22hash%22%3A1912669214%7D%2C%7B%22hash%22%3A3325463374%7D%5D%2C%22parameters%22%3A%7B%22exoticArmorHash%22%3A3608857511%2C%22artifactUnlocks%22%3A%7B%22seasonNumber%22%3A29%2C%22unlockedItemHashes%22%3A%5B2596646298%2C2596646301%2C3585856464%2C3585856465%2C3585856470%2C1319563986%2C1319563985%5D%7D%7D%7D",
+      "unresolved": [],
+      "loadout": {
+        "id": "monument-warlock-arc",
+        "name": "Warlock Arc - Geomag Ionic Sentry",
+        "notes": "Generated from builds/monument-of-triumph/warlock/arc.md. Review owned armor rolls, stat tiers, and weapon copies in DIM. Relic: Tablet of Ruin; perks: Flashover, Horde Shuttle, Unraveling Orbs, Photonic Flare, Dielectric, Defibrillating Blast, To Shreds.",
+        "classType": 2,
+        "equipped": [
+          {
+            "hash": 3168997075,
+            "socketOverrides": {
+              "2": 1081893461,
+              "0": 25156515,
+              "3": 1232050830,
+              "4": 2481624867,
+              "5": 1293395728,
+              "6": 1293395729,
+              "7": 1727069364,
+              "8": 1727069363,
+              "9": 1727069366,
+              "10": 3277705906
+            }
+          },
+          {
+            "hash": 3608857511
+          }
+        ],
+        "unequipped": [
+          {
+            "hash": 374573733
+          },
+          {
+            "hash": 2376481550
+          },
+          {
+            "hash": 1912669214
+          },
+          {
+            "hash": 3325463374
+          }
+        ],
+        "parameters": {
+          "exoticArmorHash": 3608857511,
+          "artifactUnlocks": {
+            "seasonNumber": 29,
+            "unlockedItemHashes": [
+              2596646298,
+              2596646301,
+              3585856464,
+              3585856465,
+              3585856470,
+              1319563986,
+              1319563985
+            ]
+          }
+        }
+      }
+    },
+    {
+      "path": "warlock/prismatic.md",
+      "name": "Warlock Prismatic - Getaway Soul Spam",
+      "publicDimUrl": null,
+      "longUrl": "https://app.destinyitemmanager.com/loadouts?loadout=%7B%22id%22%3A%22monument-warlock-prismatic%22%2C%22name%22%3A%22Warlock%20Prismatic%20-%20Getaway%20Soul%20Spam%22%2C%22notes%22%3A%22Generated%20from%20builds%2Fmonument-of-triumph%2Fwarlock%2Fprismatic.md.%20Review%20owned%20armor%20rolls%2C%20stat%20tiers%2C%20and%20weapon%20copies%20in%20DIM.%20Relic%3A%20Tablet%20of%20Ruin%3B%20perks%3A%20Flashover%2C%20Horde%20Shuttle%2C%20Unraveling%20Orbs%2C%20Photonic%20Flare%2C%20Dielectric%2C%20Defibrillating%20Blast%2C%20To%20Shreds.%22%2C%22classType%22%3A2%2C%22equipped%22%3A%5B%7B%22hash%22%3A3893112950%2C%22socketOverrides%22%3A%7B%222%22%3A1869939005%2C%220%22%3A1444664836%2C%223%22%3A3644045871%2C%224%22%3A4241856103%2C%227%22%3A790664813%2C%228%22%3A790664814%2C%229%22%3A2626922121%2C%2210%22%3A124726502%2C%2211%22%3A124726498%2C%2212%22%3A2626922122%2C%2213%22%3A2626922126%2C%2214%22%3A2626922125%7D%7D%2C%7B%22hash%22%3A4177778015%7D%5D%2C%22unequipped%22%3A%5B%7B%22hash%22%3A4129629253%7D%2C%7B%22hash%22%3A1594120904%7D%2C%7B%22hash%22%3A3886719505%7D%5D%2C%22parameters%22%3A%7B%22exoticArmorHash%22%3A4177778015%2C%22artifactUnlocks%22%3A%7B%22seasonNumber%22%3A29%2C%22unlockedItemHashes%22%3A%5B2596646298%2C2596646301%2C3585856464%2C3585856465%2C3585856470%2C1319563986%2C1319563985%5D%7D%7D%7D",
+      "unresolved": [],
+      "loadout": {
+        "id": "monument-warlock-prismatic",
+        "name": "Warlock Prismatic - Getaway Soul Spam",
+        "notes": "Generated from builds/monument-of-triumph/warlock/prismatic.md. Review owned armor rolls, stat tiers, and weapon copies in DIM. Relic: Tablet of Ruin; perks: Flashover, Horde Shuttle, Unraveling Orbs, Photonic Flare, Dielectric, Defibrillating Blast, To Shreds.",
+        "classType": 2,
+        "equipped": [
+          {
+            "hash": 3893112950,
+            "socketOverrides": {
+              "2": 1869939005,
+              "0": 1444664836,
+              "3": 3644045871,
+              "4": 4241856103,
+              "7": 790664813,
+              "8": 790664814,
+              "9": 2626922121,
+              "10": 124726502,
+              "11": 124726498,
+              "12": 2626922122,
+              "13": 2626922126,
+              "14": 2626922125
+            }
+          },
+          {
+            "hash": 4177778015
+          }
+        ],
+        "unequipped": [
+          {
+            "hash": 4129629253
+          },
+          {
+            "hash": 1594120904
+          },
+          {
+            "hash": 3886719505
+          }
+        ],
+        "parameters": {
+          "exoticArmorHash": 4177778015,
+          "artifactUnlocks": {
+            "seasonNumber": 29,
+            "unlockedItemHashes": [
+              2596646298,
+              2596646301,
+              3585856464,
+              3585856465,
+              3585856470,
+              1319563986,
+              1319563985
+            ]
+          }
+        }
+      }
+    },
+    {
+      "path": "warlock/solar.md",
+      "name": "Warlock Solar - Dawn Chorus Ignition",
+      "publicDimUrl": null,
+      "longUrl": "https://app.destinyitemmanager.com/loadouts?loadout=%7B%22id%22%3A%22monument-warlock-solar%22%2C%22name%22%3A%22Warlock%20Solar%20-%20Dawn%20Chorus%20Ignition%22%2C%22notes%22%3A%22Generated%20from%20builds%2Fmonument-of-triumph%2Fwarlock%2Fsolar.md.%20Review%20owned%20armor%20rolls%2C%20stat%20tiers%2C%20and%20weapon%20copies%20in%20DIM.%20Relic%3A%20Implement%20of%20Curiosity%3B%20perks%3A%20Elemental%20Benevolence%2C%20Fever%20and%20Chill%2C%20Shoulder%20to%20Shoulder%2C%20Elemental%20Daze%2C%20Cauterized%20Darkness%2C%20Shieldcrush%2C%20Radiant%20Shrapnel.%22%2C%22classType%22%3A2%2C%22equipped%22%3A%5B%7B%22hash%22%3A3941205951%2C%22socketOverrides%22%3A%7B%222%22%3A2274196884%2C%220%22%3A2979486801%2C%223%22%3A1470370538%2C%224%22%3A1841016428%2C%225%22%3A83039192%2C%226%22%3A83039193%2C%227%22%3A1051276349%2C%228%22%3A362132291%2C%229%22%3A1051276351%2C%2210%22%3A362132294%7D%7D%2C%7B%22hash%22%3A3767088557%7D%5D%2C%22unequipped%22%3A%5B%7B%22hash%22%3A4289226715%7D%2C%7B%22hash%22%3A17096506%7D%2C%7B%22hash%22%3A2069224589%7D%2C%7B%22hash%22%3A2350354266%7D%2C%7B%22hash%22%3A2827141087%7D%2C%7B%22hash%22%3A2545083870%7D%5D%2C%22parameters%22%3A%7B%22exoticArmorHash%22%3A3767088557%2C%22artifactUnlocks%22%3A%7B%22seasonNumber%22%3A29%2C%22unlockedItemHashes%22%3A%5B3153265449%2C3153265450%2C3459646246%2C3459646241%2C3459646240%2C2659604391%2C2659604388%5D%7D%7D%7D",
+      "unresolved": [],
+      "loadout": {
+        "id": "monument-warlock-solar",
+        "name": "Warlock Solar - Dawn Chorus Ignition",
+        "notes": "Generated from builds/monument-of-triumph/warlock/solar.md. Review owned armor rolls, stat tiers, and weapon copies in DIM. Relic: Implement of Curiosity; perks: Elemental Benevolence, Fever and Chill, Shoulder to Shoulder, Elemental Daze, Cauterized Darkness, Shieldcrush, Radiant Shrapnel.",
+        "classType": 2,
+        "equipped": [
+          {
+            "hash": 3941205951,
+            "socketOverrides": {
+              "2": 2274196884,
+              "0": 2979486801,
+              "3": 1470370538,
+              "4": 1841016428,
+              "5": 83039192,
+              "6": 83039193,
+              "7": 1051276349,
+              "8": 362132291,
+              "9": 1051276351,
+              "10": 362132294
+            }
+          },
+          {
+            "hash": 3767088557
+          }
+        ],
+        "unequipped": [
+          {
+            "hash": 4289226715
+          },
+          {
+            "hash": 17096506
+          },
+          {
+            "hash": 2069224589
+          },
+          {
+            "hash": 2350354266
+          },
+          {
+            "hash": 2827141087
+          },
+          {
+            "hash": 2545083870
+          }
+        ],
+        "parameters": {
+          "exoticArmorHash": 3767088557,
+          "artifactUnlocks": {
+            "seasonNumber": 29,
+            "unlockedItemHashes": [
+              3153265449,
+              3153265450,
+              3459646246,
+              3459646241,
+              3459646240,
+              2659604391,
+              2659604388
+            ]
+          }
+        }
+      }
+    },
+    {
+      "path": "warlock/stasis.md",
+      "name": "Warlock Stasis - Rime-Coat Fortress",
+      "publicDimUrl": null,
+      "longUrl": "https://app.destinyitemmanager.com/loadouts?loadout=%7B%22id%22%3A%22monument-warlock-stasis%22%2C%22name%22%3A%22Warlock%20Stasis%20-%20Rime-Coat%20Fortress%22%2C%22notes%22%3A%22Generated%20from%20builds%2Fmonument-of-triumph%2Fwarlock%2Fstasis.md.%20Review%20owned%20armor%20rolls%2C%20stat%20tiers%2C%20and%20weapon%20copies%20in%20DIM.%20Relic%3A%20Queensfoil%20Censer%3B%20perks%3A%20Fever%20and%20Chill%2C%20Kindling%20Trigger%2C%20Pillar%20of%20Ice%2C%20Creeping%20Chill%2C%20Perpetual%20Destruction%2C%20Anti-Champion%20Nosecone%2C%20Hail%20The%20Storm.%22%2C%22classType%22%3A2%2C%22equipped%22%3A%5B%7B%22hash%22%3A3291545503%2C%22socketOverrides%22%3A%7B%222%22%3A3683904166%2C%220%22%3A3492047641%2C%223%22%3A2543177538%2C%224%22%3A1399219%2C%225%22%3A2642597904%2C%226%22%3A668903196%2C%227%22%3A2483898430%2C%228%22%3A3469412971%2C%229%22%3A3469412975%2C%2210%22%3A537774541%2C%2211%22%3A2483898429%7D%7D%2C%7B%22hash%22%3A888791258%7D%5D%2C%22unequipped%22%3A%5B%7B%22hash%22%3A1111334348%7D%2C%7B%22hash%22%3A1833195496%7D%2C%7B%22hash%22%3A3886719505%7D%5D%2C%22parameters%22%3A%7B%22exoticArmorHash%22%3A888791258%2C%22artifactUnlocks%22%3A%7B%22seasonNumber%22%3A29%2C%22unlockedItemHashes%22%3A%5B3153265450%2C2317325398%2C51032916%2C3116632769%2C3585856467%2C51032914%2C1328115227%5D%7D%7D%7D",
+      "unresolved": [],
+      "loadout": {
+        "id": "monument-warlock-stasis",
+        "name": "Warlock Stasis - Rime-Coat Fortress",
+        "notes": "Generated from builds/monument-of-triumph/warlock/stasis.md. Review owned armor rolls, stat tiers, and weapon copies in DIM. Relic: Queensfoil Censer; perks: Fever and Chill, Kindling Trigger, Pillar of Ice, Creeping Chill, Perpetual Destruction, Anti-Champion Nosecone, Hail The Storm.",
+        "classType": 2,
+        "equipped": [
+          {
+            "hash": 3291545503,
+            "socketOverrides": {
+              "2": 3683904166,
+              "0": 3492047641,
+              "3": 2543177538,
+              "4": 1399219,
+              "5": 2642597904,
+              "6": 668903196,
+              "7": 2483898430,
+              "8": 3469412971,
+              "9": 3469412975,
+              "10": 537774541,
+              "11": 2483898429
+            }
+          },
+          {
+            "hash": 888791258
+          }
+        ],
+        "unequipped": [
+          {
+            "hash": 1111334348
+          },
+          {
+            "hash": 1833195496
+          },
+          {
+            "hash": 3886719505
+          }
+        ],
+        "parameters": {
+          "exoticArmorHash": 888791258,
+          "artifactUnlocks": {
+            "seasonNumber": 29,
+            "unlockedItemHashes": [
+              3153265450,
+              2317325398,
+              51032916,
+              3116632769,
+              3585856467,
+              51032914,
+              1328115227
+            ]
+          }
+        }
+      }
+    },
+    {
+      "path": "warlock/strand.md",
+      "name": "Warlock Strand - Swarmers Army",
+      "publicDimUrl": "https://dim.gg/ahtnrjq/Strand",
+      "longUrl": "https://app.destinyitemmanager.com/loadouts?loadout=%7B%22id%22%3A%22monument-warlock-strand%22%2C%22name%22%3A%22Warlock%20Strand%20-%20Swarmers%20Army%22%2C%22notes%22%3A%22Generated%20from%20builds%2Fmonument-of-triumph%2Fwarlock%2Fstrand.md.%20Review%20owned%20armor%20rolls%2C%20stat%20tiers%2C%20and%20weapon%20copies%20in%20DIM.%20Relic%3A%20Implement%20of%20Curiosity%3B%20perks%3A%20Horde%20Shuttle%2C%20Refresh%20Threads%2C%20Threaded%20Blast%2C%20Elemental%20Daze%2C%20Energy%20Acceleration%2C%20Elemental%20Overdrive%2C%20Tangled%20Web.%22%2C%22classType%22%3A2%2C%22equipped%22%3A%5B%7B%22hash%22%3A4204413574%2C%22socketOverrides%22%3A%7B%222%22%3A1885339915%2C%220%22%3A383852320%2C%223%22%3A2307689415%2C%224%22%3A4228170798%2C%225%22%3A262821318%2C%226%22%3A262821317%2C%227%22%3A4208512211%2C%228%22%3A3192552691%2C%229%22%3A4208512222%2C%2210%22%3A4208512220%7D%7D%2C%7B%22hash%22%3A2100136540%7D%5D%2C%22unequipped%22%3A%5B%7B%22hash%22%3A3121540812%7D%2C%7B%22hash%22%3A3886719505%7D%2C%7B%22hash%22%3A4284533075%7D%5D%2C%22parameters%22%3A%7B%22exoticArmorHash%22%3A2100136540%2C%22artifactUnlocks%22%3A%7B%22seasonNumber%22%3A29%2C%22unlockedItemHashes%22%3A%5B2596646301%2C3153265454%2C3459646243%2C3459646241%2C3459646245%2C2659604390%2C2659604385%5D%7D%7D%7D",
+      "unresolved": [],
+      "loadout": {
+        "id": "monument-warlock-strand",
+        "name": "Warlock Strand - Swarmers Army",
+        "notes": "Generated from builds/monument-of-triumph/warlock/strand.md. Review owned armor rolls, stat tiers, and weapon copies in DIM. Relic: Implement of Curiosity; perks: Horde Shuttle, Refresh Threads, Threaded Blast, Elemental Daze, Energy Acceleration, Elemental Overdrive, Tangled Web.",
+        "classType": 2,
+        "equipped": [
+          {
+            "hash": 4204413574,
+            "socketOverrides": {
+              "2": 1885339915,
+              "0": 383852320,
+              "3": 2307689415,
+              "4": 4228170798,
+              "5": 262821318,
+              "6": 262821317,
+              "7": 4208512211,
+              "8": 3192552691,
+              "9": 4208512222,
+              "10": 4208512220
+            }
+          },
+          {
+            "hash": 2100136540
+          }
+        ],
+        "unequipped": [
+          {
+            "hash": 3121540812
+          },
+          {
+            "hash": 3886719505
+          },
+          {
+            "hash": 4284533075
+          }
+        ],
+        "parameters": {
+          "exoticArmorHash": 2100136540,
+          "artifactUnlocks": {
+            "seasonNumber": 29,
+            "unlockedItemHashes": [
+              2596646301,
+              3153265454,
+              3459646243,
+              3459646241,
+              3459646245,
+              2659604390,
+              2659604385
+            ]
+          }
+        }
+      }
+    },
+    {
+      "path": "warlock/void.md",
+      "name": "Warlock Void - Nezarec Soul Siphon",
+      "publicDimUrl": "https://dim.gg/nfjik5q/Void",
+      "longUrl": "https://app.destinyitemmanager.com/loadouts?loadout=%7B%22id%22%3A%22monument-warlock-void%22%2C%22name%22%3A%22Warlock%20Void%20-%20Nezarec%20Soul%20Siphon%22%2C%22notes%22%3A%22Generated%20from%20builds%2Fmonument-of-triumph%2Fwarlock%2Fvoid.md.%20Review%20owned%20armor%20rolls%2C%20stat%20tiers%2C%20and%20weapon%20copies%20in%20DIM.%20Relic%3A%20Tablet%20of%20Ruin%3B%20perks%3A%20Flashover%2C%20Horde%20Shuttle%2C%20Unraveling%20Orbs%2C%20Photonic%20Flare%2C%20Dielectric%2C%20Defibrillating%20Blast%2C%20To%20Shreds.%22%2C%22classType%22%3A2%2C%22equipped%22%3A%5B%7B%22hash%22%3A2849050827%2C%22socketOverrides%22%3A%7B%222%22%3A1656118682%2C%220%22%3A2209081648%2C%223%22%3A2299867342%2C%224%22%3A1016030582%2C%225%22%3A2321824284%2C%226%22%3A2321824287%2C%227%22%3A2272984668%2C%228%22%3A2661180603%2C%229%22%3A2272984671%2C%2210%22%3A2661180601%7D%7D%2C%7B%22hash%22%3A925466716%7D%5D%2C%22unequipped%22%3A%5B%7B%22hash%22%3A3628991658%7D%2C%7B%22hash%22%3A3505113722%7D%2C%7B%22hash%22%3A253843484%7D%5D%2C%22parameters%22%3A%7B%22exoticArmorHash%22%3A925466716%2C%22artifactUnlocks%22%3A%7B%22seasonNumber%22%3A29%2C%22unlockedItemHashes%22%3A%5B2596646298%2C2596646301%2C3585856464%2C3585856465%2C3585856470%2C1319563986%2C1319563985%5D%7D%7D%7D",
+      "unresolved": [],
+      "loadout": {
+        "id": "monument-warlock-void",
+        "name": "Warlock Void - Nezarec Soul Siphon",
+        "notes": "Generated from builds/monument-of-triumph/warlock/void.md. Review owned armor rolls, stat tiers, and weapon copies in DIM. Relic: Tablet of Ruin; perks: Flashover, Horde Shuttle, Unraveling Orbs, Photonic Flare, Dielectric, Defibrillating Blast, To Shreds.",
+        "classType": 2,
+        "equipped": [
+          {
+            "hash": 2849050827,
+            "socketOverrides": {
+              "2": 1656118682,
+              "0": 2209081648,
+              "3": 2299867342,
+              "4": 1016030582,
+              "5": 2321824284,
+              "6": 2321824287,
+              "7": 2272984668,
+              "8": 2661180603,
+              "9": 2272984671,
+              "10": 2661180601
+            }
+          },
+          {
+            "hash": 925466716
+          }
+        ],
+        "unequipped": [
+          {
+            "hash": 3628991658
+          },
+          {
+            "hash": 3505113722
+          },
+          {
+            "hash": 253843484
+          }
+        ],
+        "parameters": {
+          "exoticArmorHash": 925466716,
+          "artifactUnlocks": {
+            "seasonNumber": 29,
+            "unlockedItemHashes": [
+              2596646298,
+              2596646301,
+              3585856464,
+              3585856465,
+              3585856470,
+              1319563986,
+              1319563985
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

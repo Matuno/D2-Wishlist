@@ -247,6 +247,39 @@ class ManifestResolverTests(unittest.TestCase):
         self.assertEqual([plug.name for plug in row.mags], ["Assault Mag"])
         self.assertEqual([issue.severity for issue in issues], ["warning"])
 
+    def test_resolver_warns_and_ignores_configured_unavailable_main_plug(self):
+        item_defs = {
+            "1": {
+                "displayProperties": {"name": "Lotus-Eater"},
+                "itemType": 3,
+                "sockets": {"socketEntries": [{"randomizedPlugSetHash": 1}]},
+            },
+            "10": {"displayProperties": {"name": "Repulsor Brace"}},
+            "11": {"displayProperties": {"name": "Shoot to Loot"}},
+        }
+        plug_sets = {"1": {"reusablePlugItems": [{"plugItemHash": 10}]}}
+        sheet_row = SheetRow(
+            sheet="Rocket Sidearms",
+            row_number=3,
+            name="Lotus-Eater",
+            season="29",
+            tier="S",
+            rank=1.0,
+            notes="",
+            barrels=[],
+            mags=[],
+            perk1=["Repulsor Brace", "Shoot to Loot"],
+            perk2=[],
+            origins=[],
+        )
+        overrides = {"ignored_plugs": {"Lotus-Eater": {"Perk 1": ["Shoot to Loot"]}}}
+
+        row, issues = ManifestResolver(item_defs, plug_sets, overrides=overrides).resolve(sheet_row)
+
+        self.assertEqual([plug.name for plug in row.perk1], ["Repulsor Brace"])
+        self.assertEqual([issue.severity for issue in issues], ["warning"])
+        self.assertEqual(issues[0].value, "Shoot to Loot")
+
 
 class OutputWriterTests(unittest.TestCase):
     def test_write_outputs_creates_84_files_and_configurator_artifacts(self):

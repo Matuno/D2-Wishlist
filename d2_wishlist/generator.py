@@ -528,8 +528,20 @@ class ManifestResolver:
         plug_overrides = (self.overrides.get("plugs", {}).get(sheet_row.name, {}) or {}) | (
             self.overrides.get("plugs", {}).get(base_weapon_name(sheet_row.name), {}) or {}
         )
+        ignored_plugs = self.ignored_plugs(sheet_row, field_name)
         result: list[Plug] = []
         for name in names:
+            if normalize_name(name) in ignored_plugs:
+                issues.append(
+                    issue(
+                        sheet_row,
+                        "warning",
+                        field_name,
+                        name,
+                        "Plug ignored by config/overrides.yml because it is not available on the matched weapon",
+                    )
+                )
+                continue
             if name in plug_overrides:
                 result.append(Plug(name, int(plug_overrides[name])))
                 continue
@@ -550,6 +562,26 @@ class ManifestResolver:
             ]
             result.append(Plug(name, exact[0] if exact else matches[0]))
         return dedupe_plugs(result)
+
+    def ignored_plugs(self, sheet_row: SheetRow, field_name: str) -> set[str]:
+        ignored_config = self.overrides.get("ignored_plugs", {})
+        values: list[str] = []
+        for key in (sheet_row.name, base_weapon_name(sheet_row.name)):
+            entry = ignored_config.get(key)
+            if not entry:
+                continue
+            if isinstance(entry, dict):
+                for nested_key in (field_name, "*"):
+                    nested = entry.get(nested_key)
+                    if isinstance(nested, list):
+                        values.extend(clean_text(value) for value in nested)
+                    elif nested:
+                        values.append(clean_text(nested))
+            elif isinstance(entry, list):
+                values.extend(clean_text(value) for value in entry)
+            else:
+                values.append(clean_text(entry))
+        return {normalize_name(value) for value in values if value}
 
 
 def dedupe_plugs(plugs: list[Plug]) -> list[Plug]:
@@ -733,6 +765,22 @@ def main(argv: list[str] | None = None) -> int:
     generate.add_argument("--sheet-url", default=SHEET_EXPORT_URL, help="Aegis spreadsheet .xlsx export URL.")
     generate.add_argument("--overrides", default=Path("config/overrides.yml"), type=Path, help="Override YAML path.")
     generate.add_argument("--allow-unresolved", action="store_true", help="Write partial outputs despite audit errors.")
+    dim_links = subparsers.add_parser(
+        "monument-dim-links",
+        help="Generate long-form DIM links for Monument of Triumph build docs.",
+    )
+    dim_links.add_argument(
+        "--build-root",
+        default=Path("builds/monument-of-triumph"),
+        type=Path,
+        help="Build docs root.",
+    )
+    dim_links.add_argument("--season-number", default=29, type=int, help="Artifact season number for DIM.")
+    dim_links.add_argument(
+        "--allow-unresolved",
+        action="store_true",
+        help="Write links even when a referenced build item or perk is unresolved.",
+    )
 
     args = parser.parse_args(argv)
     if args.command == "generate":
@@ -743,5 +791,31 @@ def main(argv: list[str] | None = None) -> int:
             overrides_path=args.overrides,
             allow_unresolved=args.allow_unresolved,
         )
+    if args.command == "monument-dim-links":
+        from .dim_loadouts import generate_monument_dim_links
+
+        manifest_version, item_defs, plug_set_defs = load_bungie_manifest()
+        results = generate_monument_dim_links(
+            build_root=args.build_root,
+            item_defs=item_defs,
+            plug_set_defs=plug_set_defs,
+            season_number=args.season_number,
+        )
+        unresolved = [
+            f"{result.doc.path}: {issue}"
+            for result in results
+            for issue in result.unresolved
+        ]
+        if unresolved:
+            for issue in unresolved:
+                print(issue, file=sys.stderr)
+            if not args.allow_unresolved:
+                print(
+                    f"Generated links with manifest {manifest_version}, but found {len(unresolved)} unresolved references.",
+                    file=sys.stderr,
+                )
+                return 2
+        print(f"Generated {len(results)} long-form DIM links with manifest {manifest_version}.")
+        return 0
     parser.print_help()
     return 1

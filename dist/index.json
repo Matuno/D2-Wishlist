@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T19:19:22.435499+00:00",
+  "generatedAt": "2026-07-13T23:39:54.965125+00:00",
   "outputDirectory": "dist",
   "files": [
     {
@@ -677,9 +677,9 @@
   ],
   "metadata": {
     "sheetUrl": "https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY/export?format=xlsx",
-    "manifestVersion": "244164.26.06.16.2053-2-bnet.65465",
-    "sheetRows": 729,
-    "resolvedRows": 729,
+    "manifestVersion": "244213.26.06.29.2000-1-bnet.65583",
+    "sheetRows": 709,
+    "resolvedRows": 709,
     "errors": 0
   }
 }

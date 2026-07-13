@@ -1,151 +1,151 @@
 severity,sheet,row_number,weapon,field,value,message
-warning,Autos,11,The Ringing Nail,Name,The Ringing Nail,Multiple manifest weapons matched; selected 3326135421 by release and collectible tie-breakers
-warning,Autos,21,Snipehunt Mk. 47,Name,Snipehunt Mk. 47,Multiple manifest weapons matched; selected 193009988 by release and collectible tie-breakers
-warning,Autos,29,"Prosecutor
+warning,Autos,6,"Reckless Oracle
+Pantheon version",Name,"Reckless Oracle
+Pantheon version",Multiple manifest weapons matched; selected 4158265643 by release and collectible tie-breakers
+warning,Autos,11,Reckless Oracle,Name,Reckless Oracle,Multiple manifest weapons matched; selected 4158265643 by release and collectible tie-breakers
+warning,Autos,16,The Ringing Nail,Name,The Ringing Nail,Multiple manifest weapons matched; selected 3326135421 by release and collectible tie-breakers
+warning,Autos,22,Snipehunt Mk. 47,Name,Snipehunt Mk. 47,Multiple manifest weapons matched; selected 193009988 by release and collectible tie-breakers
+warning,Autos,37,"Prosecutor
 RotN version",Name,"Prosecutor
 RotN version",Multiple manifest weapons matched; selected 880829467 by release and collectible tie-breakers
-warning,Autos,35,Breakneck,Name,Breakneck,Multiple manifest weapons matched; selected 2065366343 by release and collectible tie-breakers
-warning,Autos,50,Horror Story,Name,Horror Story,Multiple manifest weapons matched; selected 2884070594 by release and collectible tie-breakers
-warning,Autos,52,Herod-C,Name,Herod-C,Multiple manifest weapons matched; selected 2065366342 by release and collectible tie-breakers
+warning,Autos,45,Breakneck,Name,Breakneck,Multiple manifest weapons matched; selected 2065366343 by release and collectible tie-breakers
+warning,Autos,50,Herod-C,Name,Herod-C,Multiple manifest weapons matched; selected 2065366342 by release and collectible tie-breakers
 warning,Autos,53,Dark Decider,Name,Dark Decider,Multiple manifest weapons matched; selected 1144014195 by release and collectible tie-breakers
-warning,Bows,5,The Spiteful Fang,Name,The Spiteful Fang,Multiple manifest weapons matched; selected 1094998581 by release and collectible tie-breakers
+warning,Autos,55,Horror Story,Name,Horror Story,Multiple manifest weapons matched; selected 2884070594 by release and collectible tie-breakers
+warning,Bows,4,The Spiteful Fang,Name,The Spiteful Fang,Multiple manifest weapons matched; selected 1094998581 by release and collectible tie-breakers
 warning,Bows,8,Fortunate Star,Name,Fortunate Star,Multiple manifest weapons matched; selected 2631466936 by release and collectible tie-breakers
-warning,Bows,14,King Orfeo,Name,King Orfeo,Multiple manifest weapons matched; selected 3481382332 by release and collectible tie-breakers
-warning,Bows,18,Hushed Whisper,Name,Hushed Whisper,Multiple manifest weapons matched; selected 1175295126 by release and collectible tie-breakers
-warning,Bows,29,Whistler's Whim,Name,Whistler's Whim,Multiple manifest weapons matched; selected 3165143747 by release and collectible tie-breakers
-warning,HCs,7,Kindled Orchid,Name,Kindled Orchid,Multiple manifest weapons matched; selected 3961462214 by release and collectible tie-breakers
-warning,HCs,18,Unloved,Name,Unloved,Multiple manifest weapons matched; selected 388390591 by release and collectible tie-breakers
-warning,HCs,22,Triple Laureate,Name,Triple Laureate,Multiple manifest weapons matched; selected 1605599021 by release and collectible tie-breakers
-warning,HCs,24,Phoneutria Fera,Name,Phoneutria Fera,Multiple manifest weapons matched; selected 3496887154 by release and collectible tie-breakers
-warning,HCs,31,Maahes HC4,Name,Maahes HC4,Multiple manifest weapons matched; selected 734476286 by release and collectible tie-breakers
-warning,HCs,45,Something New,Name,Something New,Multiple manifest weapons matched; selected 2877020298 by release and collectible tie-breakers
-warning,HCs,48,Sixth Sense,Name,Sixth Sense,Multiple manifest weapons matched; selected 3163473092 by release and collectible tie-breakers
-warning,HCs,50,"Judgment
+warning,Bows,15,King Orfeo,Name,King Orfeo,Multiple manifest weapons matched; selected 3481382332 by release and collectible tie-breakers
+warning,Bows,16,Hushed Whisper,Name,Hushed Whisper,Multiple manifest weapons matched; selected 1175295126 by release and collectible tie-breakers
+warning,Bows,30,Whistler's Whim,Name,Whistler's Whim,Multiple manifest weapons matched; selected 3165143747 by release and collectible tie-breakers
+warning,HCs,3,Kindled Orchid,Name,Kindled Orchid,Multiple manifest weapons matched; selected 3961462214 by release and collectible tie-breakers
+warning,HCs,8,"Zaouli's Bane
+Pantheon version",Name,"Zaouli's Bane
+Pantheon version",Multiple manifest weapons matched; selected 3647341740 by release and collectible tie-breakers
+warning,HCs,15,Unloved,Name,Unloved,Multiple manifest weapons matched; selected 388390591 by release and collectible tie-breakers
+warning,HCs,21,Triple Laureate,Name,Triple Laureate,Multiple manifest weapons matched; selected 1605599021 by release and collectible tie-breakers
+warning,HCs,25,Maahes HC4,Name,Maahes HC4,Multiple manifest weapons matched; selected 734476286 by release and collectible tie-breakers
+warning,HCs,31,Phoneutria Fera,Name,Phoneutria Fera,Multiple manifest weapons matched; selected 3496887154 by release and collectible tie-breakers
+warning,HCs,44,"Judgment
 RotN version",Name,"Judgment
 RotN version",Multiple manifest weapons matched; selected 2226572694 by release and collectible tie-breakers
-warning,HCs,61,Bottom Dollar,Name,Bottom Dollar,Multiple manifest weapons matched; selected 2953199259 by release and collectible tie-breakers
-warning,HCs,63,Frontier's Cry,Name,Frontier's Cry,Multiple manifest weapons matched; selected 3203303472 by release and collectible tie-breakers
-warning,Pulses,3,Claws of the Wolf,Name,Claws of the Wolf,Multiple manifest weapons matched; selected 3634548599 by release and collectible tie-breakers
-warning,Pulses,10,Blast Furnace,Name,Blast Furnace,Multiple manifest weapons matched; selected 52683113 by release and collectible tie-breakers
-warning,Pulses,20,Jurassic Green,Name,Jurassic Green,Multiple manifest weapons matched; selected 3103255595 by release and collectible tie-breakers
-warning,Pulses,38,"Relentless
+warning,HCs,48,Sixth Sense,Name,Sixth Sense,Multiple manifest weapons matched; selected 3163473092 by release and collectible tie-breakers
+warning,HCs,52,Something New,Name,Something New,Multiple manifest weapons matched; selected 2877020298 by release and collectible tie-breakers
+warning,HCs,62,Bottom Dollar,Name,Bottom Dollar,Multiple manifest weapons matched; selected 2953199259 by release and collectible tie-breakers
+warning,HCs,67,Frontier's Cry,Name,Frontier's Cry,Multiple manifest weapons matched; selected 3203303472 by release and collectible tie-breakers
+warning,Pulses,4,Claws of the Wolf,Name,Claws of the Wolf,Multiple manifest weapons matched; selected 3634548599 by release and collectible tie-breakers
+warning,Pulses,14,"Chattering Bone
+Pantheon version",Name,"Chattering Bone
+Pantheon version",Multiple manifest weapons matched; selected 830651379 by release and collectible tie-breakers
+warning,Pulses,18,Blast Furnace,Name,Blast Furnace,Multiple manifest weapons matched; selected 52683113 by release and collectible tie-breakers
+warning,Pulses,22,Jurassic Green,Name,Jurassic Green,Multiple manifest weapons matched; selected 3103255595 by release and collectible tie-breakers
+warning,Pulses,28,"Relentless
 RotN version",Name,"Relentless
 RotN version",Multiple manifest weapons matched; selected 3733988413 by release and collectible tie-breakers
-warning,Pulses,39,Relentless,Name,Relentless,Multiple manifest weapons matched; selected 2831259643 by release and collectible tie-breakers
+warning,Pulses,30,Relentless,Name,Relentless,Multiple manifest weapons matched; selected 2831259643 by release and collectible tie-breakers
 warning,Pulses,40,Jorum's Claw,Name,Jorum's Claw,Multiple manifest weapons matched; selected 3634548598 by release and collectible tie-breakers
-warning,Pulses,41,Stay Frosty,Name,Stay Frosty,Multiple manifest weapons matched; selected 3910523587 by release and collectible tie-breakers
-warning,Pulses,47,Aisha's Care,Name,Aisha's Care,Multiple manifest weapons matched; selected 3614211586 by release and collectible tie-breakers
-warning,Pulses,50,Ogma PR6,Name,Ogma PR6,Multiple manifest weapons matched; selected 324584912 by release and collectible tie-breakers
-warning,Pulses,52,Yesteryear,Name,Yesteryear,Multiple manifest weapons matched; selected 4028000428 by release and collectible tie-breakers
-warning,Pulses,55,The Third Axiom,Name,The Third Axiom,Multiple manifest weapons matched; selected 3744058588 by release and collectible tie-breakers
-warning,Pulses,59,Cold Denial,Name,Cold Denial,Multiple manifest weapons matched; selected 324584913 by release and collectible tie-breakers
+warning,Pulses,41,Aisha's Care,Name,Aisha's Care,Multiple manifest weapons matched; selected 3614211586 by release and collectible tie-breakers
+warning,Pulses,43,Stay Frosty,Name,Stay Frosty,Multiple manifest weapons matched; selected 3910523587 by release and collectible tie-breakers
+warning,Pulses,50,Yesteryear,Name,Yesteryear,Multiple manifest weapons matched; selected 4028000428 by release and collectible tie-breakers
+warning,Pulses,52,Ogma PR6,Name,Ogma PR6,Multiple manifest weapons matched; selected 324584912 by release and collectible tie-breakers
+warning,Pulses,58,Cold Denial,Name,Cold Denial,Multiple manifest weapons matched; selected 324584913 by release and collectible tie-breakers
 warning,Scouts,9,No Feelings,Name,No Feelings,Multiple manifest weapons matched; selected 1271275406 by release and collectible tie-breakers
-warning,Scouts,14,Patron of Lost Causes,Name,Patron of Lost Causes,Multiple manifest weapons matched; selected 3156551030 by release and collectible tie-breakers
-warning,Scouts,31,Red Tape,Name,Red Tape,Multiple manifest weapons matched; selected 736362511 by release and collectible tie-breakers
-warning,Scouts,37,Live Fire,Name,Live Fire,Multiple manifest weapons matched; selected 3156551031 by release and collectible tie-breakers
-warning,Scouts,38,"Long Arm
+warning,Scouts,22,Patron of Lost Causes,Name,Patron of Lost Causes,Multiple manifest weapons matched; selected 3156551030 by release and collectible tie-breakers
+warning,Scouts,32,Red Tape,Name,Red Tape,Multiple manifest weapons matched; selected 736362511 by release and collectible tie-breakers
+warning,Scouts,34,Live Fire,Name,Live Fire,Multiple manifest weapons matched; selected 3156551031 by release and collectible tie-breakers
+warning,Scouts,38,Taraxippos,Name,Taraxippos,Multiple manifest weapons matched; selected 4148460558 by release and collectible tie-breakers
+warning,Scouts,40,Glissando-47,Name,Glissando-47,Multiple manifest weapons matched; selected 3156551028 by release and collectible tie-breakers
+warning,Scouts,41,"Long Arm
 RotN version",Name,"Long Arm
 RotN version",Multiple manifest weapons matched; selected 4249949938 by release and collectible tie-breakers
-warning,Scouts,39,Taraxippos,Name,Taraxippos,Multiple manifest weapons matched; selected 4148460558 by release and collectible tie-breakers
-warning,Scouts,44,Glissando-47,Name,Glissando-47,Multiple manifest weapons matched; selected 3156551028 by release and collectible tie-breakers
-warning,Sidearms,9,Heliocentric QSc,Name,Heliocentric QSc,Multiple manifest weapons matched; selected 1291040555 by release and collectible tie-breakers
-warning,Sidearms,10,Insurmountable,Name,Insurmountable,Multiple manifest weapons matched; selected 2596736862 by release and collectible tie-breakers
-warning,Sidearms,14,Fimbulwinter Stitch,Name,Fimbulwinter Stitch,Multiple manifest weapons matched; selected 3685829362 by release and collectible tie-breakers
-warning,Sidearms,15,Anonymous Autumn,Name,Anonymous Autumn,Multiple manifest weapons matched; selected 1644501332 by release and collectible tie-breakers
+warning,Sidearms,7,Insurmountable,Name,Insurmountable,Multiple manifest weapons matched; selected 2596736862 by release and collectible tie-breakers
+warning,Sidearms,10,Heliocentric QSc,Name,Heliocentric QSc,Multiple manifest weapons matched; selected 1291040555 by release and collectible tie-breakers
+warning,Sidearms,11,Anonymous Autumn,Name,Anonymous Autumn,Multiple manifest weapons matched; selected 1644501332 by release and collectible tie-breakers
+warning,Sidearms,15,Peacebond,Name,Peacebond,Multiple manifest weapons matched; selected 247984829 by release and collectible tie-breakers
+warning,Sidearms,18,Fimbulwinter Stitch,Name,Fimbulwinter Stitch,Multiple manifest weapons matched; selected 3685829362 by release and collectible tie-breakers
 warning,Sidearms,20,"Liminal Vigil
 RotN version",Name,"Liminal Vigil
 RotN version",Multiple manifest weapons matched; selected 2575844666 by release and collectible tie-breakers
-warning,Sidearms,21,Peacebond,Name,Peacebond,Multiple manifest weapons matched; selected 247984829 by release and collectible tie-breakers
 warning,Sidearms,29,Allied Demand,Name,Allied Demand,Multiple manifest weapons matched; selected 247984830 by release and collectible tie-breakers
-warning,SMGs,4,Yeartide Apex,Name,Yeartide Apex,Multiple manifest weapons matched; selected 3293207827 by release and collectible tie-breakers
-warning,SMGs,14,The Title,Name,The Title,Multiple manifest weapons matched; selected 4106258882 by release and collectible tie-breakers
-warning,SMGs,16,Vikala SMG4,Name,Vikala SMG4,Multiple manifest weapons matched; selected 3210792817 by release and collectible tie-breakers
-warning,SMGs,18,Gunburn,Name,Gunburn,Multiple manifest weapons matched; selected 3431536253 by release and collectible tie-breakers
-warning,SMGs,19,"No Survivors
+warning,SMGs,9,Yeartide Apex,Name,Yeartide Apex,Multiple manifest weapons matched; selected 3293207827 by release and collectible tie-breakers
+warning,SMGs,11,Vikala SMG4,Name,Vikala SMG4,Multiple manifest weapons matched; selected 3210792817 by release and collectible tie-breakers
+warning,SMGs,12,The Title,Name,The Title,Multiple manifest weapons matched; selected 4106258882 by release and collectible tie-breakers
+warning,SMGs,20,"No Survivors
 RotN version",Name,"No Survivors
 RotN version",Multiple manifest weapons matched; selected 4228149269 by release and collectible tie-breakers
-warning,SMGs,37,The Hero's Burden,Name,The Hero's Burden,Multiple manifest weapons matched; selected 4222913208 by release and collectible tie-breakers
-warning,BGLs,6,Festival Flight,Name,Festival Flight,Multiple manifest weapons matched; selected 4019651319 by release and collectible tie-breakers
-warning,BGLs,7,Gizmo Weft,Name,Gizmo Weft,Multiple manifest weapons matched; selected 4069880346 by release and collectible tie-breakers
-warning,BGLs,12,Liturgy,Name,Liturgy,Multiple manifest weapons matched; selected 3377522331 by release and collectible tie-breakers
-warning,BGLs,13,Romantic Death,Name,Romantic Death,Multiple manifest weapons matched; selected 4169082039 by release and collectible tie-breakers
-warning,BGLs,16,"Wilderflight
+warning,SMGs,24,Gunburn,Name,Gunburn,Multiple manifest weapons matched; selected 3431536253 by release and collectible tie-breakers
+warning,SMGs,31,The Hero's Burden,Name,The Hero's Burden,Multiple manifest weapons matched; selected 4222913208 by release and collectible tie-breakers
+warning,BGLs,5,Gizmo Weft,Name,Gizmo Weft,Multiple manifest weapons matched; selected 4069880346 by release and collectible tie-breakers
+warning,BGLs,7,Festival Flight,Name,Festival Flight,Multiple manifest weapons matched; selected 4019651319 by release and collectible tie-breakers
+warning,BGLs,14,Permafrost,Name,Permafrost,Multiple manifest weapons matched; selected 2922964484 by release and collectible tie-breakers
+warning,BGLs,15,"Wilderflight
 RotN version",Name,"Wilderflight
 RotN version",Multiple manifest weapons matched; selected 1206729100 by release and collectible tie-breakers
-warning,BGLs,21,"New Pacific Epitaph
+warning,BGLs,16,Liturgy,Name,Liturgy,Multiple manifest weapons matched; selected 3377522331 by release and collectible tie-breakers
+warning,BGLs,17,Romantic Death,Name,Romantic Death,Multiple manifest weapons matched; selected 4169082039 by release and collectible tie-breakers
+warning,BGLs,19,"New Pacific Epitaph
 RotN version",Name,"New Pacific Epitaph
 RotN version",Multiple manifest weapons matched; selected 2059741649 by release and collectible tie-breakers
-warning,BGLs,22,Permafrost,Name,Permafrost,Multiple manifest weapons matched; selected 2922964484 by release and collectible tie-breakers
-warning,BGLs,23,Tusk of the Boar,Name,Tusk of the Boar,Multiple manifest weapons matched; selected 491956886 by release and collectible tie-breakers
-warning,BGLs,27,Undercurrent,Name,Undercurrent,Multiple manifest weapons matched; selected 3686538757 by release and collectible tie-breakers
-warning,BGLs,28,Wild Style,Name,Wild Style,Multiple manifest weapons matched; selected 4021098352 by release and collectible tie-breakers
-warning,BGLs,29,The Militia's Birthright,Name,The Militia's Birthright,Multiple manifest weapons matched; selected 1854753405 by release and collectible tie-breakers
+warning,BGLs,24,Tusk of the Boar,Name,Tusk of the Boar,Multiple manifest weapons matched; selected 491956886 by release and collectible tie-breakers
+warning,BGLs,26,"The Mountaintop
+BRAVE version",Name,"The Mountaintop
+BRAVE version",Multiple manifest weapons matched; selected 3736001861 by release and collectible tie-breakers
+warning,BGLs,28,Undercurrent,Name,Undercurrent,Multiple manifest weapons matched; selected 3686538757 by release and collectible tie-breakers
+warning,BGLs,29,Wild Style,Name,Wild Style,Multiple manifest weapons matched; selected 4021098352 by release and collectible tie-breakers
 warning,BGLs,33,Empty Vessel,Name,Empty Vessel,Multiple manifest weapons matched; selected 198068259 by release and collectible tie-breakers
-warning,Fusions,5,The Beacon,Name,The Beacon,Multiple manifest weapons matched; selected 2161618499 by release and collectible tie-breakers
-warning,Fusions,8,Accelerando-42,Name,Accelerando-42,Multiple manifest weapons matched; selected 3610531207 by release and collectible tie-breakers
-warning,Fusions,16,Afterlight,Name,Afterlight,Multiple manifest weapons matched; selected 3228630258 by release and collectible tie-breakers
-warning,Fusions,23,Tempered Dynamo,Name,Tempered Dynamo,Multiple manifest weapons matched; selected 2274706510 by release and collectible tie-breakers
-warning,Fusions,27,Nox Perennial V,Name,Nox Perennial V,Multiple manifest weapons matched; selected 2366022261 by release and collectible tie-breakers
-warning,Fusions,28,Pressurized Precision,Name,Pressurized Precision,Multiple manifest weapons matched; selected 293709640 by release and collectible tie-breakers
-warning,Fusions,34,Aurvandil FR6,Name,Aurvandil FR6,Multiple manifest weapons matched; selected 3786215462 by release and collectible tie-breakers
-warning,Fusions,39,The Wizened Rebuke,Name,The Wizened Rebuke,Multiple manifest weapons matched; selected 2290416 by release and collectible tie-breakers
-warning,Glaives,6,The Heron,Name,The Heron,Multiple manifest weapons matched; selected 2246386812 by release and collectible tie-breakers
-warning,Glaives,13,Backfang,Name,Backfang,Multiple manifest weapons matched; selected 1277470844 by release and collectible tie-breakers
-warning,Glaives,14,"Greasy Luck
+warning,Fusions,6,Accelerando-42,Name,Accelerando-42,Multiple manifest weapons matched; selected 3610531207 by release and collectible tie-breakers
+warning,Fusions,10,Nox Perennial V,Name,Nox Perennial V,Multiple manifest weapons matched; selected 2366022261 by release and collectible tie-breakers
+warning,Fusions,20,The Beacon,Name,The Beacon,Multiple manifest weapons matched; selected 2161618499 by release and collectible tie-breakers
+warning,Fusions,23,Aurvandil FR6,Name,Aurvandil FR6,Multiple manifest weapons matched; selected 3786215462 by release and collectible tie-breakers
+warning,Fusions,29,Afterlight,Name,Afterlight,Multiple manifest weapons matched; selected 3228630258 by release and collectible tie-breakers
+warning,Fusions,31,Pressurized Precision,Name,Pressurized Precision,Multiple manifest weapons matched; selected 293709640 by release and collectible tie-breakers
+warning,Fusions,32,Tempered Dynamo,Name,Tempered Dynamo,Multiple manifest weapons matched; selected 2274706510 by release and collectible tie-breakers
+warning,Glaives,4,The Heron,Name,The Heron,Multiple manifest weapons matched; selected 2246386812 by release and collectible tie-breakers
+warning,Glaives,13,"Greasy Luck
 RotN version",Name,"Greasy Luck
 RotN version",Multiple manifest weapons matched; selected 2934305134 by release and collectible tie-breakers
-warning,Glaives,16,Albedo Wing,Name,Albedo Wing,Multiple manifest weapons matched; selected 2274629609 by release and collectible tie-breakers
-warning,Shotguns,5,Unvoiced,Name,Unvoiced,Multiple manifest weapons matched; selected 2213885190 by release and collectible tie-breakers
-warning,Shotguns,9,Threat Level,Name,Threat Level,Multiple manifest weapons matched; selected 1523151869 by release and collectible tie-breakers
-warning,Shotguns,11,Arcane Embrace,Name,Arcane Embrace,Multiple manifest weapons matched; selected 3328019216 by release and collectible tie-breakers
-warning,Shotguns,14,"A Sudden Death
+warning,Glaives,14,Albedo Wing,Name,Albedo Wing,Multiple manifest weapons matched; selected 2274629609 by release and collectible tie-breakers
+warning,Glaives,15,Backfang,Name,Backfang,Multiple manifest weapons matched; selected 1277470844 by release and collectible tie-breakers
+warning,Shotguns,3,Threat Level,Name,Threat Level,Multiple manifest weapons matched; selected 1523151869 by release and collectible tie-breakers
+warning,Shotguns,8,Unvoiced,Name,Unvoiced,Multiple manifest weapons matched; selected 2213885190 by release and collectible tie-breakers
+warning,Shotguns,13,"A Sudden Death
 RotN version",Name,"A Sudden Death
 RotN version",Multiple manifest weapons matched; selected 1976481399 by release and collectible tie-breakers
-warning,Shotguns,28,Compass Rose,Name,Compass Rose,Multiple manifest weapons matched; selected 2723419129 by release and collectible tie-breakers
-warning,Shotguns,38,Trachinus,Name,Trachinus,Multiple manifest weapons matched; selected 3635232671 by release and collectible tie-breakers
-warning,Shotguns,44,Ded Gramarye IV,Name,Ded Gramarye IV,Multiple manifest weapons matched; selected 870893339 by release and collectible tie-breakers
-warning,Shotguns,51,Reckless Endangerment,Barrel,Fluted Barrel,Plug was not available on matched weapon
-warning,Shotguns,53,Riiswalker,Name,Riiswalker,Multiple manifest weapons matched; selected 1435062001 by release and collectible tie-breakers
-warning,Snipers,7,Rapid Growth,Name,Rapid Growth,Multiple manifest weapons matched; selected 3856342856 by release and collectible tie-breakers
-warning,Snipers,25,Alone as a god,Name,Alone as a god,Multiple manifest weapons matched; selected 353884603 by release and collectible tie-breakers
-warning,Snipers,37,Tatara Gaze,Name,Tatara Gaze,Multiple manifest weapons matched; selected 2531614757 by release and collectible tie-breakers
-warning,Snipers,39,Frozen Orbit,Name,Frozen Orbit,Multiple manifest weapons matched; selected 1516542120 by release and collectible tie-breakers
-warning,Snipers,44,Mechabre,Name,Mechabre,Multiple manifest weapons matched; selected 3023280734 by release and collectible tie-breakers
-warning,Snipers,49,Bite of the Fox,Name,Bite of the Fox,Multiple manifest weapons matched; selected 2851703775 by release and collectible tie-breakers
-warning,Rocket Sidearms,3,Lotus-Eater,Name,Lotus-Eater,Multiple manifest weapons matched; selected 924095500 by release and collectible tie-breakers
+warning,Shotguns,17,Arcane Embrace,Name,Arcane Embrace,Multiple manifest weapons matched; selected 3328019216 by release and collectible tie-breakers
+warning,Shotguns,25,Compass Rose,Name,Compass Rose,Multiple manifest weapons matched; selected 2723419129 by release and collectible tie-breakers
+warning,Shotguns,27,Trachinus,Name,Trachinus,Multiple manifest weapons matched; selected 3635232671 by release and collectible tie-breakers
+warning,Shotguns,31,Ded Gramarye IV,Name,Ded Gramarye IV,Multiple manifest weapons matched; selected 870893339 by release and collectible tie-breakers
+warning,Shotguns,60,Riiswalker,Name,Riiswalker,Multiple manifest weapons matched; selected 1435062001 by release and collectible tie-breakers
+warning,Snipers,9,Rapid Growth,Name,Rapid Growth,Multiple manifest weapons matched; selected 3856342856 by release and collectible tie-breakers
+warning,Snipers,17,Tatara Gaze,Name,Tatara Gaze,Multiple manifest weapons matched; selected 2531614757 by release and collectible tie-breakers
+warning,Snipers,22,Alone as a god,Name,Alone as a god,Multiple manifest weapons matched; selected 353884603 by release and collectible tie-breakers
+warning,Snipers,44,Frozen Orbit,Name,Frozen Orbit,Multiple manifest weapons matched; selected 1516542120 by release and collectible tie-breakers
+warning,Snipers,46,Mechabre,Name,Mechabre,Multiple manifest weapons matched; selected 3023280734 by release and collectible tie-breakers
+warning,Snipers,53,Bite of the Fox,Name,Bite of the Fox,Multiple manifest weapons matched; selected 2851703775 by release and collectible tie-breakers
+warning,Rocket Sidearms,3,Lotus-Eater,Perk 1,Shoot to Loot,Plug ignored by config/overrides.yml because it is not available on the matched weapon
 warning,Rocket Sidearms,8,Tinasha's Mastery,Name,Tinasha's Mastery,Multiple manifest weapons matched; selected 247984828 by release and collectible tie-breakers
 warning,Traces,5,Keraunios,Name,Keraunios,Multiple manifest weapons matched; selected 2386208942 by release and collectible tie-breakers
-warning,Traces,9,Incisor,Name,Incisor,Multiple manifest weapons matched; selected 1711056134 by release and collectible tie-breakers
-warning,Traces,10,Action Item,Name,Action Item,Multiple manifest weapons matched; selected 527989828 by release and collectible tie-breakers
+warning,Traces,10,Incisor,Name,Incisor,Multiple manifest weapons matched; selected 1711056134 by release and collectible tie-breakers
+warning,Traces,11,Action Item,Name,Action Item,Multiple manifest weapons matched; selected 527989828 by release and collectible tie-breakers
 warning,Traces,14,Ribbontail,Name,Ribbontail,Multiple manifest weapons matched; selected 3576134513 by release and collectible tie-breakers
-warning,HGLs,8,Love and Death,Mag,Spike Grenades,Plug was not available on matched weapon
-warning,HGLs,16,Hullabaloo,Name,Hullabaloo,Multiple manifest weapons matched; selected 2449096504 by release and collectible tie-breakers
-warning,HGLs,18,Acosmic,Name,Acosmic,Multiple manifest weapons matched; selected 1106017703 by release and collectible tie-breakers
-warning,LFRs,6,Scintillation,Name,Scintillation,Multiple manifest weapons matched; selected 1207321710 by release and collectible tie-breakers
-warning,LFRs,7,Mistral Lift,Name,Mistral Lift,Multiple manifest weapons matched; selected 766122634 by release and collectible tie-breakers
-warning,LFRs,14,Reed's Regret,Name,Reed's Regret,Multiple manifest weapons matched; selected 3267997292 by release and collectible tie-breakers
-warning,LFRs,18,Laser Painter,Name,Laser Painter,Multiple manifest weapons matched; selected 1439354195 by release and collectible tie-breakers
-warning,LMGs,11,Bane of Sorrow,Name,Bane of Sorrow,Multiple manifest weapons matched; selected 3779290676 by release and collectible tie-breakers
-warning,LMGs,13,"Terminus Horizon
+warning,HGLs,17,Hullabaloo,Name,Hullabaloo,Multiple manifest weapons matched; selected 2449096504 by release and collectible tie-breakers
+warning,HGLs,19,Acosmic,Name,Acosmic,Multiple manifest weapons matched; selected 1106017703 by release and collectible tie-breakers
+warning,LFRs,5,Reed's Regret,Name,Reed's Regret,Multiple manifest weapons matched; selected 3267997292 by release and collectible tie-breakers
+warning,LFRs,10,Laser Painter,Name,Laser Painter,Multiple manifest weapons matched; selected 1439354195 by release and collectible tie-breakers
+warning,LFRs,12,Scintillation,Name,Scintillation,Multiple manifest weapons matched; selected 1207321710 by release and collectible tie-breakers
+warning,LFRs,14,Mistral Lift,Name,Mistral Lift,Multiple manifest weapons matched; selected 766122634 by release and collectible tie-breakers
+warning,LMGs,4,Hammerhead,Name,Hammerhead,Multiple manifest weapons matched; selected 1346714574 by release and collectible tie-breakers
+warning,LMGs,9,Bane of Sorrow,Name,Bane of Sorrow,Multiple manifest weapons matched; selected 3779290676 by release and collectible tie-breakers
+warning,LMGs,18,"Terminus Horizon
 RotN version",Name,"Terminus Horizon
 RotN version",Multiple manifest weapons matched; selected 3984556130 by release and collectible tie-breakers
-warning,LMGs,21,Hammerhead,Name,Hammerhead,Multiple manifest weapons matched; selected 1346714574 by release and collectible tie-breakers
-warning,LMGs,22,Dawn Far Off,Name,Dawn Far Off,Multiple manifest weapons matched; selected 2770617440 by release and collectible tie-breakers
-warning,LMGs,24,Archon's Thunder,Name,Archon's Thunder,Multiple manifest weapons matched; selected 91672792 by release and collectible tie-breakers
-warning,Rockets,7,Crux Celeritas IV,Name,Crux Celeritas IV,Multiple manifest weapons matched; selected 391069235 by release and collectible tie-breakers
-warning,Rockets,8,Bellowing Giant,Name,Bellowing Giant,Multiple manifest weapons matched; selected 412265080 by release and collectible tie-breakers
-warning,Rockets,11,"Cold Comfort
-RotN version",Name,"Cold Comfort
-RotN version",Multiple manifest weapons matched; selected 291447487 by release and collectible tie-breakers
-warning,Rockets,13,Tomorrow's Answer,Name,Tomorrow's Answer,Multiple manifest weapons matched; selected 1940352487 by release and collectible tie-breakers
-warning,Rockets,20,Folded Root,Name,Folded Root,Multiple manifest weapons matched; selected 2725894221 by release and collectible tie-breakers
-warning,Rockets,23,Micromort,Name,Micromort,Multiple manifest weapons matched; selected 474671201 by release and collectible tie-breakers
-warning,Rockets,28,Crowning Duologue,Name,Crowning Duologue,Multiple manifest weapons matched; selected 1151307006 by release and collectible tie-breakers
-warning,Swords,4,Synanceia,Name,Synanceia,Multiple manifest weapons matched; selected 1823308496 by release and collectible tie-breakers
-warning,Swords,8,Terciopelo-4bl,Name,Terciopelo-4bl,Multiple manifest weapons matched; selected 393652859 by release and collectible tie-breakers
-warning,Swords,10,Aurora Dawn,Name,Aurora Dawn,Multiple manifest weapons matched; selected 2111625436 by release and collectible tie-breakers
-warning,Swords,12,Abyssal Edge,Name,Abyssal Edge,Multiple manifest weapons matched; selected 2599520828 by release and collectible tie-breakers
-warning,Swords,21,Hardline Cut,Name,Hardline Cut,Multiple manifest weapons matched; selected 3461043766 by release and collectible tie-breakers
-warning,Swords,26,Temptation's Hook,Name,Temptation's Hook,Multiple manifest weapons matched; selected 3977827673 by release and collectible tie-breakers
-warning,Swords,27,Stryker's Sure-Hand,Name,Stryker's Sure-Hand,Multiple manifest weapons matched; selected 2490460292 by release and collectible tie-breakers
-warning,Swords,35,Falling Guillotine,Name,Falling Guillotine,Multiple manifest weapons matched; selected 2480871539 by release and collectible tie-breakers
+warning,LMGs,19,Dawn Far Off,Name,Dawn Far Off,Multiple manifest weapons matched; selected 2770617440 by release and collectible tie-breakers
+warning,LMGs,23,Archon's Thunder,Name,Archon's Thunder,Multiple manifest weapons matched; selected 91672792 by release and collectible tie-breakers
+warning,Rockets,4,Bellowing Giant,Name,Bellowing Giant,Multiple manifest weapons matched; selected 412265080 by release and collectible tie-breakers
+warning,Swords,3,Synanceia,Name,Synanceia,Multiple manifest weapons matched; selected 1823308496 by release and collectible tie-breakers
+warning,Swords,7,Terciopelo-4bl,Name,Terciopelo-4bl,Multiple manifest weapons matched; selected 393652859 by release and collectible tie-breakers
+warning,Swords,9,Aurora Dawn,Name,Aurora Dawn,Multiple manifest weapons matched; selected 2111625436 by release and collectible tie-breakers
+warning,Swords,11,Abyssal Edge,Name,Abyssal Edge,Multiple manifest weapons matched; selected 2599520828 by release and collectible tie-breakers
+warning,Swords,20,Hardline Cut,Name,Hardline Cut,Multiple manifest weapons matched; selected 3461043766 by release and collectible tie-breakers
+warning,Swords,25,Temptation's Hook,Name,Temptation's Hook,Multiple manifest weapons matched; selected 3977827673 by release and collectible tie-breakers
+warning,Swords,26,Stryker's Sure-Hand,Name,Stryker's Sure-Hand,Multiple manifest weapons matched; selected 2490460292 by release and collectible tie-breakers
+warning,Swords,34,Falling Guillotine,Name,Falling Guillotine,Multiple manifest weapons matched; selected 2480871539 by release and collectible tie-breakers
