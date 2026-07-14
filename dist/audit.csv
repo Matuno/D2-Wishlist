@@ -5,6 +5,7 @@ Pantheon version",Multiple manifest weapons matched; selected 4158265643 by rele
 warning,Autos,11,Reckless Oracle,Name,Reckless Oracle,Multiple manifest weapons matched; selected 4158265643 by release and collectible tie-breakers
 warning,Autos,16,The Ringing Nail,Name,The Ringing Nail,Multiple manifest weapons matched; selected 3326135421 by release and collectible tie-breakers
 warning,Autos,22,Snipehunt Mk. 47,Name,Snipehunt Mk. 47,Multiple manifest weapons matched; selected 193009988 by release and collectible tie-breakers
+warning,Autos,27,Zealous Ideal,Mag,Enhanced Heatsink,Only enhanced plug hashes were available; DIM wishlist rules require base unenhanced plug hashes
 warning,Autos,37,"Prosecutor
 RotN version",Name,"Prosecutor
 RotN version",Multiple manifest weapons matched; selected 880829467 by release and collectible tie-breakers
@@ -18,6 +19,7 @@ warning,Bows,15,King Orfeo,Name,King Orfeo,Multiple manifest weapons matched; se
 warning,Bows,16,Hushed Whisper,Name,Hushed Whisper,Multiple manifest weapons matched; selected 1175295126 by release and collectible tie-breakers
 warning,Bows,30,Whistler's Whim,Name,Whistler's Whim,Multiple manifest weapons matched; selected 3165143747 by release and collectible tie-breakers
 warning,HCs,3,Kindled Orchid,Name,Kindled Orchid,Multiple manifest weapons matched; selected 3961462214 by release and collectible tie-breakers
+warning,HCs,7,Modified B-7 Pistol,Mag,Enhanced Heatsink,Only enhanced plug hashes were available; DIM wishlist rules require base unenhanced plug hashes
 warning,HCs,8,"Zaouli's Bane
 Pantheon version",Name,"Zaouli's Bane
 Pantheon version",Multiple manifest weapons matched; selected 3647341740 by release and collectible tie-breakers
@@ -33,6 +35,8 @@ warning,HCs,52,Something New,Name,Something New,Multiple manifest weapons matche
 warning,HCs,62,Bottom Dollar,Name,Bottom Dollar,Multiple manifest weapons matched; selected 2953199259 by release and collectible tie-breakers
 warning,HCs,67,Frontier's Cry,Name,Frontier's Cry,Multiple manifest weapons matched; selected 3203303472 by release and collectible tie-breakers
 warning,Pulses,4,Claws of the Wolf,Name,Claws of the Wolf,Multiple manifest weapons matched; selected 3634548599 by release and collectible tie-breakers
+warning,Pulses,9,High Tyrant,Mag,Enhanced Heatsink,Only enhanced plug hashes were available; DIM wishlist rules require base unenhanced plug hashes
+warning,Pulses,13,All or Nothing,Mag,Enhanced Heatsink,Only enhanced plug hashes were available; DIM wishlist rules require base unenhanced plug hashes
 warning,Pulses,14,"Chattering Bone
 Pantheon version",Name,"Chattering Bone
 Pantheon version",Multiple manifest weapons matched; selected 830651379 by release and collectible tie-breakers
@@ -48,6 +52,7 @@ warning,Pulses,43,Stay Frosty,Name,Stay Frosty,Multiple manifest weapons matched
 warning,Pulses,50,Yesteryear,Name,Yesteryear,Multiple manifest weapons matched; selected 4028000428 by release and collectible tie-breakers
 warning,Pulses,52,Ogma PR6,Name,Ogma PR6,Multiple manifest weapons matched; selected 324584912 by release and collectible tie-breakers
 warning,Pulses,58,Cold Denial,Name,Cold Denial,Multiple manifest weapons matched; selected 324584913 by release and collectible tie-breakers
+warning,Scouts,4,Voltaic Shade,Mag,Enhanced Heatsink,Only enhanced plug hashes were available; DIM wishlist rules require base unenhanced plug hashes
 warning,Scouts,9,No Feelings,Name,No Feelings,Multiple manifest weapons matched; selected 1271275406 by release and collectible tie-breakers
 warning,Scouts,22,Patron of Lost Causes,Name,Patron of Lost Causes,Multiple manifest weapons matched; selected 3156551030 by release and collectible tie-breakers
 warning,Scouts,32,Red Tape,Name,Red Tape,Multiple manifest weapons matched; selected 736362511 by release and collectible tie-breakers
@@ -57,6 +62,7 @@ warning,Scouts,40,Glissando-47,Name,Glissando-47,Multiple manifest weapons match
 warning,Scouts,41,"Long Arm
 RotN version",Name,"Long Arm
 RotN version",Multiple manifest weapons matched; selected 4249949938 by release and collectible tie-breakers
+warning,Sidearms,3,Compact Defender,Mag,Enhanced Heatsink,Only enhanced plug hashes were available; DIM wishlist rules require base unenhanced plug hashes
 warning,Sidearms,7,Insurmountable,Name,Insurmountable,Multiple manifest weapons matched; selected 2596736862 by release and collectible tie-breakers
 warning,Sidearms,10,Heliocentric QSc,Name,Heliocentric QSc,Multiple manifest weapons matched; selected 1291040555 by release and collectible tie-breakers
 warning,Sidearms,11,Anonymous Autumn,Name,Anonymous Autumn,Multiple manifest weapons matched; selected 1644501332 by release and collectible tie-breakers
@@ -66,8 +72,10 @@ warning,Sidearms,20,"Liminal Vigil
 RotN version",Name,"Liminal Vigil
 RotN version",Multiple manifest weapons matched; selected 2575844666 by release and collectible tie-breakers
 warning,Sidearms,29,Allied Demand,Name,Allied Demand,Multiple manifest weapons matched; selected 247984830 by release and collectible tie-breakers
+warning,SMGs,7,"M-17 ""Fast Talker""",Mag,Enhanced Heatsink,Only enhanced plug hashes were available; DIM wishlist rules require base unenhanced plug hashes
 warning,SMGs,9,Yeartide Apex,Name,Yeartide Apex,Multiple manifest weapons matched; selected 3293207827 by release and collectible tie-breakers
 warning,SMGs,11,Vikala SMG4,Name,Vikala SMG4,Multiple manifest weapons matched; selected 3210792817 by release and collectible tie-breakers
+warning,SMGs,11,Vikala SMG4,Mag,Enhanced Heatsink,Only enhanced plug hashes were available; DIM wishlist rules require base unenhanced plug hashes
 warning,SMGs,12,The Title,Name,The Title,Multiple manifest weapons matched; selected 4106258882 by release and collectible tie-breakers
 warning,SMGs,20,"No Survivors
 RotN version",Name,"No Survivors
@@ -106,7 +114,6 @@ RotN version",Multiple manifest weapons matched; selected 2934305134 by release 
 warning,Glaives,14,Albedo Wing,Name,Albedo Wing,Multiple manifest weapons matched; selected 2274629609 by release and collectible tie-breakers
 warning,Glaives,15,Backfang,Name,Backfang,Multiple manifest weapons matched; selected 1277470844 by release and collectible tie-breakers
 warning,Shotguns,3,Threat Level,Name,Threat Level,Multiple manifest weapons matched; selected 1523151869 by release and collectible tie-breakers
-warning,Shotguns,8,Unvoiced,Name,Unvoiced,Multiple manifest weapons matched; selected 2213885190 by release and collectible tie-breakers
 warning,Shotguns,13,"A Sudden Death
 RotN version",Name,"A Sudden Death
 RotN version",Multiple manifest weapons matched; selected 1976481399 by release and collectible tie-breakers
@@ -140,12 +147,14 @@ RotN version",Name,"Terminus Horizon
 RotN version",Multiple manifest weapons matched; selected 3984556130 by release and collectible tie-breakers
 warning,LMGs,19,Dawn Far Off,Name,Dawn Far Off,Multiple manifest weapons matched; selected 2770617440 by release and collectible tie-breakers
 warning,LMGs,23,Archon's Thunder,Name,Archon's Thunder,Multiple manifest weapons matched; selected 91672792 by release and collectible tie-breakers
+warning,LMGs,26,Bitter End,Mag,Enhanced Heatsink,Only enhanced plug hashes were available; DIM wishlist rules require base unenhanced plug hashes
 warning,Rockets,4,Bellowing Giant,Name,Bellowing Giant,Multiple manifest weapons matched; selected 412265080 by release and collectible tie-breakers
-warning,Swords,3,Synanceia,Name,Synanceia,Multiple manifest weapons matched; selected 1823308496 by release and collectible tie-breakers
-warning,Swords,7,Terciopelo-4bl,Name,Terciopelo-4bl,Multiple manifest weapons matched; selected 393652859 by release and collectible tie-breakers
-warning,Swords,9,Aurora Dawn,Name,Aurora Dawn,Multiple manifest weapons matched; selected 2111625436 by release and collectible tie-breakers
-warning,Swords,11,Abyssal Edge,Name,Abyssal Edge,Multiple manifest weapons matched; selected 2599520828 by release and collectible tie-breakers
-warning,Swords,20,Hardline Cut,Name,Hardline Cut,Multiple manifest weapons matched; selected 3461043766 by release and collectible tie-breakers
-warning,Swords,25,Temptation's Hook,Name,Temptation's Hook,Multiple manifest weapons matched; selected 3977827673 by release and collectible tie-breakers
-warning,Swords,26,Stryker's Sure-Hand,Name,Stryker's Sure-Hand,Multiple manifest weapons matched; selected 2490460292 by release and collectible tie-breakers
-warning,Swords,34,Falling Guillotine,Name,Falling Guillotine,Multiple manifest weapons matched; selected 2480871539 by release and collectible tie-breakers
+warning,Rockets,10,"Cold Comfort
+RotN version",Name,"Cold Comfort
+RotN version",Multiple manifest weapons matched; selected 291447487 by release and collectible tie-breakers
+warning,Rockets,13,Crux Celeritas IV,Name,Crux Celeritas IV,Multiple manifest weapons matched; selected 391069235 by release and collectible tie-breakers
+warning,Rockets,20,Folded Root,Name,Folded Root,Multiple manifest weapons matched; selected 2725894221 by release and collectible tie-breakers
+warning,Rockets,23,Micromort,Name,Micromort,Multiple manifest weapons matched; selected 474671201 by release and collectible tie-breakers
+warning,Rockets,27,Crowning Duologue,Name,Crowning Duologue,Multiple manifest weapons matched; selected 1151307006 by release and collectible tie-breakers
+warning,Other,7,Veillantif-D,Name,Veillantif-D,Multiple manifest weapons matched; selected 1361871430 by release and collectible tie-breakers
+warning,Other,8,Mint Retrograde,Perk 2,Slice,Plug ignored by config/overrides.yml because it is not available on the matched weapon

@@ -86,6 +86,14 @@ def normalize_name(value: Any) -> str:
     return text
 
 
+def is_enhanced_plug_name(value: Any) -> bool:
+    return re.match(r"^enhanced\s+", clean_text(value), flags=re.IGNORECASE) is not None
+
+
+def base_plug_display_name(value: Any) -> str:
+    return re.sub(r"^enhanced\s+", "", clean_text(value), flags=re.IGNORECASE).strip()
+
+
 def clean_text(value: Any) -> str:
     if value is None:
         return ""
@@ -555,13 +563,46 @@ class ManifestResolver:
                 severity = "error" if field_name in {"Perk 1", "Perk 2"} else "warning"
                 issues.append(issue(sheet_row, severity, field_name, name, "Plug was not available on matched weapon"))
                 continue
+            selected_hash = self.dim_compatible_plug_hash(name, matches)
+            if selected_hash is None:
+                severity = "error" if field_name in {"Perk 1", "Perk 2"} else "warning"
+                issues.append(
+                    issue(
+                        sheet_row,
+                        severity,
+                        field_name,
+                        name,
+                        "Only enhanced plug hashes were available; DIM wishlist rules require base unenhanced plug hashes",
+                    )
+                )
+                continue
+            result.append(Plug(name, selected_hash))
+        return dedupe_plugs(result)
+
+    def dim_compatible_plug_hash(self, requested_name: str, matches: list[int]) -> int | None:
+        base_matches = [
+            hash_value
+            for hash_value in matches
+            if not is_enhanced_plug_name(self.plug_name_by_hash.get(hash_value, ""))
+        ]
+        if base_matches:
             exact = [
                 hash_value
-                for hash_value in matches
-                if clean_text(self.plug_name_by_hash.get(hash_value, "")) == clean_text(name)
+                for hash_value in base_matches
+                if clean_text(self.plug_name_by_hash.get(hash_value, "")) == clean_text(requested_name)
             ]
-            result.append(Plug(name, exact[0] if exact else matches[0]))
-        return dedupe_plugs(result)
+            if exact:
+                return exact[0]
+            requested_base_name = base_plug_display_name(requested_name)
+            base_exact = [
+                hash_value
+                for hash_value in base_matches
+                if clean_text(self.plug_name_by_hash.get(hash_value, "")) == requested_base_name
+            ]
+            return base_exact[0] if base_exact else base_matches[0]
+        if any(is_enhanced_plug_name(self.plug_name_by_hash.get(hash_value, "")) for hash_value in matches):
+            return None
+        return matches[0] if matches else None
 
     def ignored_plugs(self, sheet_row: SheetRow, field_name: str) -> set[str]:
         ignored_config = self.overrides.get("ignored_plugs", {})

@@ -280,6 +280,82 @@ class ManifestResolverTests(unittest.TestCase):
         self.assertEqual([issue.severity for issue in issues], ["warning"])
         self.assertEqual(issues[0].value, "Shoot to Loot")
 
+    def test_resolver_uses_base_hash_for_enhanced_sheet_plug_name(self):
+        item_defs = {
+            "1": {
+                "displayProperties": {"name": "Crafted Rifle"},
+                "itemType": 3,
+                "sockets": {"socketEntries": [{"randomizedPlugSetHash": 1}]},
+            },
+            "10": {"displayProperties": {"name": "Repulsor Brace"}},
+            "11": {"displayProperties": {"name": "Enhanced Repulsor Brace"}},
+        }
+        plug_sets = {
+            "1": {
+                "reusablePlugItems": [
+                    {"plugItemHash": 11},
+                    {"plugItemHash": 10},
+                ]
+            }
+        }
+        sheet_row = SheetRow(
+            sheet="Autos",
+            row_number=3,
+            name="Crafted Rifle",
+            season="29",
+            tier="S",
+            rank=1.0,
+            notes="",
+            barrels=[],
+            mags=[],
+            perk1=["Enhanced Repulsor Brace"],
+            perk2=[],
+            origins=[],
+        )
+
+        row, issues = ManifestResolver(item_defs, plug_sets).resolve(sheet_row)
+
+        self.assertEqual(issues, [])
+        self.assertEqual(row.perk1, [Plug("Enhanced Repulsor Brace", 10)])
+
+    def test_resolver_warns_and_drops_enhanced_only_quality_plug(self):
+        item_defs = {
+            "1": {
+                "displayProperties": {"name": "Zealous Ideal"},
+                "itemType": 3,
+                "sockets": {"socketEntries": [{"randomizedPlugSetHash": 1}, {"randomizedPlugSetHash": 2}]},
+            },
+            "10": {"displayProperties": {"name": "Fluted Barrel"}},
+            "11": {"displayProperties": {"name": "Enhanced Heatsink"}},
+            "12": {"displayProperties": {"name": "Heal Clip"}},
+        }
+        plug_sets = {
+            "1": {"reusablePlugItems": [{"plugItemHash": 10}]},
+            "2": {"reusablePlugItems": [{"plugItemHash": 11}, {"plugItemHash": 12}]},
+        }
+        sheet_row = SheetRow(
+            sheet="Autos",
+            row_number=27,
+            name="Zealous Ideal",
+            season="28",
+            tier="B",
+            rank=25.0,
+            notes="",
+            barrels=["Fluted Barrel"],
+            mags=["Enhanced Heatsink"],
+            perk1=["Heal Clip"],
+            perk2=[],
+            origins=[],
+        )
+
+        row, issues = ManifestResolver(item_defs, plug_sets).resolve(sheet_row)
+
+        self.assertEqual(row.mags, [])
+        self.assertEqual(row.perk1, [Plug("Heal Clip", 12)])
+        self.assertEqual(len(issues), 1)
+        self.assertEqual(issues[0].severity, "warning")
+        self.assertEqual(issues[0].field, "Mag")
+
 
 class OutputWriterTests(unittest.TestCase):
     def test_write_outputs_creates_84_files_and_configurator_artifacts(self):
