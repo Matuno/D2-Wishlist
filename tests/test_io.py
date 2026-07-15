@@ -318,6 +318,50 @@ class ManifestResolverTests(unittest.TestCase):
         self.assertEqual(issues, [])
         self.assertEqual(row.perk1, [Plug("Enhanced Repulsor Brace", 10)])
 
+    def test_resolver_uses_unenhanced_hash_when_manifest_names_match(self):
+        item_defs = {
+            "52683113": {
+                "displayProperties": {"name": "Blast Furnace"},
+                "itemType": 3,
+                "sockets": {"socketEntries": [{"randomizedPlugSetHash": 1}]},
+            },
+            "3891536761": {
+                "displayProperties": {"name": "Kinetic Tremors"},
+                "itemTypeDisplayName": "Trait",
+            },
+            "1549370717": {
+                "displayProperties": {"name": "Kinetic Tremors"},
+                "itemTypeDisplayName": "Enhanced Trait",
+            },
+        }
+        plug_sets = {
+            "1": {
+                "reusablePlugItems": [
+                    {"plugItemHash": 1549370717},
+                    {"plugItemHash": 3891536761},
+                ]
+            }
+        }
+        sheet_row = SheetRow(
+            sheet="Pulses",
+            row_number=18,
+            name="Blast Furnace",
+            season="29",
+            tier="A",
+            rank=1.0,
+            notes="",
+            barrels=[],
+            mags=[],
+            perk1=["Kinetic Tremors"],
+            perk2=[],
+            origins=[],
+        )
+
+        row, issues = ManifestResolver(item_defs, plug_sets).resolve(sheet_row)
+
+        self.assertEqual(issues, [])
+        self.assertEqual(row.perk1, [Plug("Kinetic Tremors", 3891536761)])
+
     def test_resolver_warns_and_drops_enhanced_only_quality_plug(self):
         item_defs = {
             "1": {

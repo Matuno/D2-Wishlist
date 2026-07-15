@@ -583,7 +583,7 @@ class ManifestResolver:
         base_matches = [
             hash_value
             for hash_value in matches
-            if not is_enhanced_plug_name(self.plug_name_by_hash.get(hash_value, ""))
+            if not self.is_enhanced_plug_hash(hash_value)
         ]
         if base_matches:
             exact = [
@@ -600,9 +600,16 @@ class ManifestResolver:
                 if clean_text(self.plug_name_by_hash.get(hash_value, "")) == requested_base_name
             ]
             return base_exact[0] if base_exact else base_matches[0]
-        if any(is_enhanced_plug_name(self.plug_name_by_hash.get(hash_value, "")) for hash_value in matches):
+        if any(self.is_enhanced_plug_hash(hash_value) for hash_value in matches):
             return None
         return matches[0] if matches else None
+
+    def is_enhanced_plug_hash(self, hash_value: int) -> bool:
+        definition = self.item_defs.get(str(hash_value), {})
+        item_type_name = clean_text(definition.get("itemTypeDisplayName"))
+        if item_type_name.lower().startswith("enhanced"):
+            return True
+        return is_enhanced_plug_name(self.plug_name_by_hash.get(hash_value, ""))
 
     def ignored_plugs(self, sheet_row: SheetRow, field_name: str) -> set[str]:
         ignored_config = self.overrides.get("ignored_plugs", {})
